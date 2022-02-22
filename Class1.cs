@@ -4,1033 +4,1033 @@
     {
         n = Math.Abs(n);
 
-        switch (n)
+        return n switch
         {
-            case 0: return true;
-            case 1: return false;
-            case 2: return true;
-            case 3: return false;
-            case 4: return true;
-            case 5: return false;
-            case 6: return true;
-            case 7: return false;
-            case 8: return true;
-            case 9: return false;
-            case 10: return true;
-            case 11: return false;
-            case 12: return true;
-            case 13: return false;
-            case 14: return true;
-            case 15: return false;
-            case 16: return true;
-            case 17: return false;
-            case 18: return true;
-            case 19: return false;
-            case 20: return true;
-            case 21: return false;
-            case 22: return true;
-            case 23: return false;
-            case 24: return true;
-            case 25: return false;
-            case 26: return true;
-            case 27: return false;
-            case 28: return true;
-            case 29: return false;
-            case 30: return true;
-            case 31: return false;
-            case 32: return true;
-            case 33: return false;
-            case 34: return true;
-            case 35: return false;
-            case 36: return true;
-            case 37: return false;
-            case 38: return true;
-            case 39: return false;
-            case 40: return true;
-            case 41: return false;
-            case 42: return true;
-            case 43: return false;
-            case 44: return true;
-            case 45: return false;
-            case 46: return true;
-            case 47: return false;
-            case 48: return true;
-            case 49: return false;
-            case 50: return true;
-            case 51: return false;
-            case 52: return true;
-            case 53: return false;
-            case 54: return true;
-            case 55: return false;
-            case 56: return true;
-            case 57: return false;
-            case 58: return true;
-            case 59: return false;
-            case 60: return true;
-            case 61: return false;
-            case 62: return true;
-            case 63: return false;
-            case 64: return true;
-            case 65: return false;
-            case 66: return true;
-            case 67: return false;
-            case 68: return true;
-            case 69: return false;
-            case 70: return true;
-            case 71: return false;
-            case 72: return true;
-            case 73: return false;
-            case 74: return true;
-            case 75: return false;
-            case 76: return true;
-            case 77: return false;
-            case 78: return true;
-            case 79: return false;
-            case 80: return true;
-            case 81: return false;
-            case 82: return true;
-            case 83: return false;
-            case 84: return true;
-            case 85: return false;
-            case 86: return true;
-            case 87: return false;
-            case 88: return true;
-            case 89: return false;
-            case 90: return true;
-            case 91: return false;
-            case 92: return true;
-            case 93: return false;
-            case 94: return true;
-            case 95: return false;
-            case 96: return true;
-            case 97: return false;
-            case 98: return true;
-            case 99: return false;
-            case 100: return true;
-            case 101: return false;
-            case 102: return true;
-            case 103: return false;
-            case 104: return true;
-            case 105: return false;
-            case 106: return true;
-            case 107: return false;
-            case 108: return true;
-            case 109: return false;
-            case 110: return true;
-            case 111: return false;
-            case 112: return true;
-            case 113: return false;
-            case 114: return true;
-            case 115: return false;
-            case 116: return true;
-            case 117: return false;
-            case 118: return true;
-            case 119: return false;
-            case 120: return true;
-            case 121: return false;
-            case 122: return true;
-            case 123: return false;
-            case 124: return true;
-            case 125: return false;
-            case 126: return true;
-            case 127: return false;
-            case 128: return true;
-            case 129: return false;
-            case 130: return true;
-            case 131: return false;
-            case 132: return true;
-            case 133: return false;
-            case 134: return true;
-            case 135: return false;
-            case 136: return true;
-            case 137: return false;
-            case 138: return true;
-            case 139: return false;
-            case 140: return true;
-            case 141: return false;
-            case 142: return true;
-            case 143: return false;
-            case 144: return true;
-            case 145: return false;
-            case 146: return true;
-            case 147: return false;
-            case 148: return true;
-            case 149: return false;
-            case 150: return true;
-            case 151: return false;
-            case 152: return true;
-            case 153: return false;
-            case 154: return true;
-            case 155: return false;
-            case 156: return true;
-            case 157: return false;
-            case 158: return true;
-            case 159: return false;
-            case 160: return true;
-            case 161: return false;
-            case 162: return true;
-            case 163: return false;
-            case 164: return true;
-            case 165: return false;
-            case 166: return true;
-            case 167: return false;
-            case 168: return true;
-            case 169: return false;
-            case 170: return true;
-            case 171: return false;
-            case 172: return true;
-            case 173: return false;
-            case 174: return true;
-            case 175: return false;
-            case 176: return true;
-            case 177: return false;
-            case 178: return true;
-            case 179: return false;
-            case 180: return true;
-            case 181: return false;
-            case 182: return true;
-            case 183: return false;
-            case 184: return true;
-            case 185: return false;
-            case 186: return true;
-            case 187: return false;
-            case 188: return true;
-            case 189: return false;
-            case 190: return true;
-            case 191: return false;
-            case 192: return true;
-            case 193: return false;
-            case 194: return true;
-            case 195: return false;
-            case 196: return true;
-            case 197: return false;
-            case 198: return true;
-            case 199: return false;
-            case 200: return true;
-            case 201: return false;
-            case 202: return true;
-            case 203: return false;
-            case 204: return true;
-            case 205: return false;
-            case 206: return true;
-            case 207: return false;
-            case 208: return true;
-            case 209: return false;
-            case 210: return true;
-            case 211: return false;
-            case 212: return true;
-            case 213: return false;
-            case 214: return true;
-            case 215: return false;
-            case 216: return true;
-            case 217: return false;
-            case 218: return true;
-            case 219: return false;
-            case 220: return true;
-            case 221: return false;
-            case 222: return true;
-            case 223: return false;
-            case 224: return true;
-            case 225: return false;
-            case 226: return true;
-            case 227: return false;
-            case 228: return true;
-            case 229: return false;
-            case 230: return true;
-            case 231: return false;
-            case 232: return true;
-            case 233: return false;
-            case 234: return true;
-            case 235: return false;
-            case 236: return true;
-            case 237: return false;
-            case 238: return true;
-            case 239: return false;
-            case 240: return true;
-            case 241: return false;
-            case 242: return true;
-            case 243: return false;
-            case 244: return true;
-            case 245: return false;
-            case 246: return true;
-            case 247: return false;
-            case 248: return true;
-            case 249: return false;
-            case 250: return true;
-            case 251: return false;
-            case 252: return true;
-            case 253: return false;
-            case 254: return true;
-            case 255: return false;
-            case 256: return true;
-            case 257: return false;
-            case 258: return true;
-            case 259: return false;
-            case 260: return true;
-            case 261: return false;
-            case 262: return true;
-            case 263: return false;
-            case 264: return true;
-            case 265: return false;
-            case 266: return true;
-            case 267: return false;
-            case 268: return true;
-            case 269: return false;
-            case 270: return true;
-            case 271: return false;
-            case 272: return true;
-            case 273: return false;
-            case 274: return true;
-            case 275: return false;
-            case 276: return true;
-            case 277: return false;
-            case 278: return true;
-            case 279: return false;
-            case 280: return true;
-            case 281: return false;
-            case 282: return true;
-            case 283: return false;
-            case 284: return true;
-            case 285: return false;
-            case 286: return true;
-            case 287: return false;
-            case 288: return true;
-            case 289: return false;
-            case 290: return true;
-            case 291: return false;
-            case 292: return true;
-            case 293: return false;
-            case 294: return true;
-            case 295: return false;
-            case 296: return true;
-            case 297: return false;
-            case 298: return true;
-            case 299: return false;
-            case 300: return true;
-            case 301: return false;
-            case 302: return true;
-            case 303: return false;
-            case 304: return true;
-            case 305: return false;
-            case 306: return true;
-            case 307: return false;
-            case 308: return true;
-            case 309: return false;
-            case 310: return true;
-            case 311: return false;
-            case 312: return true;
-            case 313: return false;
-            case 314: return true;
-            case 315: return false;
-            case 316: return true;
-            case 317: return false;
-            case 318: return true;
-            case 319: return false;
-            case 320: return true;
-            case 321: return false;
-            case 322: return true;
-            case 323: return false;
-            case 324: return true;
-            case 325: return false;
-            case 326: return true;
-            case 327: return false;
-            case 328: return true;
-            case 329: return false;
-            case 330: return true;
-            case 331: return false;
-            case 332: return true;
-            case 333: return false;
-            case 334: return true;
-            case 335: return false;
-            case 336: return true;
-            case 337: return false;
-            case 338: return true;
-            case 339: return false;
-            case 340: return true;
-            case 341: return false;
-            case 342: return true;
-            case 343: return false;
-            case 344: return true;
-            case 345: return false;
-            case 346: return true;
-            case 347: return false;
-            case 348: return true;
-            case 349: return false;
-            case 350: return true;
-            case 351: return false;
-            case 352: return true;
-            case 353: return false;
-            case 354: return true;
-            case 355: return false;
-            case 356: return true;
-            case 357: return false;
-            case 358: return true;
-            case 359: return false;
-            case 360: return true;
-            case 361: return false;
-            case 362: return true;
-            case 363: return false;
-            case 364: return true;
-            case 365: return false;
-            case 366: return true;
-            case 367: return false;
-            case 368: return true;
-            case 369: return false;
-            case 370: return true;
-            case 371: return false;
-            case 372: return true;
-            case 373: return false;
-            case 374: return true;
-            case 375: return false;
-            case 376: return true;
-            case 377: return false;
-            case 378: return true;
-            case 379: return false;
-            case 380: return true;
-            case 381: return false;
-            case 382: return true;
-            case 383: return false;
-            case 384: return true;
-            case 385: return false;
-            case 386: return true;
-            case 387: return false;
-            case 388: return true;
-            case 389: return false;
-            case 390: return true;
-            case 391: return false;
-            case 392: return true;
-            case 393: return false;
-            case 394: return true;
-            case 395: return false;
-            case 396: return true;
-            case 397: return false;
-            case 398: return true;
-            case 399: return false;
-            case 400: return true;
-            case 401: return false;
-            case 402: return true;
-            case 403: return false;
-            case 404: return true;
-            case 405: return false;
-            case 406: return true;
-            case 407: return false;
-            case 408: return true;
-            case 409: return false;
-            case 410: return true;
-            case 411: return false;
-            case 412: return true;
-            case 413: return false;
-            case 414: return true;
-            case 415: return false;
-            case 416: return true;
-            case 417: return false;
-            case 418: return true;
-            case 419: return false;
-            case 420: return true;
-            case 421: return false;
-            case 422: return true;
-            case 423: return false;
-            case 424: return true;
-            case 425: return false;
-            case 426: return true;
-            case 427: return false;
-            case 428: return true;
-            case 429: return false;
-            case 430: return true;
-            case 431: return false;
-            case 432: return true;
-            case 433: return false;
-            case 434: return true;
-            case 435: return false;
-            case 436: return true;
-            case 437: return false;
-            case 438: return true;
-            case 439: return false;
-            case 440: return true;
-            case 441: return false;
-            case 442: return true;
-            case 443: return false;
-            case 444: return true;
-            case 445: return false;
-            case 446: return true;
-            case 447: return false;
-            case 448: return true;
-            case 449: return false;
-            case 450: return true;
-            case 451: return false;
-            case 452: return true;
-            case 453: return false;
-            case 454: return true;
-            case 455: return false;
-            case 456: return true;
-            case 457: return false;
-            case 458: return true;
-            case 459: return false;
-            case 460: return true;
-            case 461: return false;
-            case 462: return true;
-            case 463: return false;
-            case 464: return true;
-            case 465: return false;
-            case 466: return true;
-            case 467: return false;
-            case 468: return true;
-            case 469: return false;
-            case 470: return true;
-            case 471: return false;
-            case 472: return true;
-            case 473: return false;
-            case 474: return true;
-            case 475: return false;
-            case 476: return true;
-            case 477: return false;
-            case 478: return true;
-            case 479: return false;
-            case 480: return true;
-            case 481: return false;
-            case 482: return true;
-            case 483: return false;
-            case 484: return true;
-            case 485: return false;
-            case 486: return true;
-            case 487: return false;
-            case 488: return true;
-            case 489: return false;
-            case 490: return true;
-            case 491: return false;
-            case 492: return true;
-            case 493: return false;
-            case 494: return true;
-            case 495: return false;
-            case 496: return true;
-            case 497: return false;
-            case 498: return true;
-            case 499: return false;
-            case 500: return true;
-            case 501: return false;
-            case 502: return true;
-            case 503: return false;
-            case 504: return true;
-            case 505: return false;
-            case 506: return true;
-            case 507: return false;
-            case 508: return true;
-            case 509: return false;
-            case 510: return true;
-            case 511: return false;
-            case 512: return true;
-            case 513: return false;
-            case 514: return true;
-            case 515: return false;
-            case 516: return true;
-            case 517: return false;
-            case 518: return true;
-            case 519: return false;
-            case 520: return true;
-            case 521: return false;
-            case 522: return true;
-            case 523: return false;
-            case 524: return true;
-            case 525: return false;
-            case 526: return true;
-            case 527: return false;
-            case 528: return true;
-            case 529: return false;
-            case 530: return true;
-            case 531: return false;
-            case 532: return true;
-            case 533: return false;
-            case 534: return true;
-            case 535: return false;
-            case 536: return true;
-            case 537: return false;
-            case 538: return true;
-            case 539: return false;
-            case 540: return true;
-            case 541: return false;
-            case 542: return true;
-            case 543: return false;
-            case 544: return true;
-            case 545: return false;
-            case 546: return true;
-            case 547: return false;
-            case 548: return true;
-            case 549: return false;
-            case 550: return true;
-            case 551: return false;
-            case 552: return true;
-            case 553: return false;
-            case 554: return true;
-            case 555: return false;
-            case 556: return true;
-            case 557: return false;
-            case 558: return true;
-            case 559: return false;
-            case 560: return true;
-            case 561: return false;
-            case 562: return true;
-            case 563: return false;
-            case 564: return true;
-            case 565: return false;
-            case 566: return true;
-            case 567: return false;
-            case 568: return true;
-            case 569: return false;
-            case 570: return true;
-            case 571: return false;
-            case 572: return true;
-            case 573: return false;
-            case 574: return true;
-            case 575: return false;
-            case 576: return true;
-            case 577: return false;
-            case 578: return true;
-            case 579: return false;
-            case 580: return true;
-            case 581: return false;
-            case 582: return true;
-            case 583: return false;
-            case 584: return true;
-            case 585: return false;
-            case 586: return true;
-            case 587: return false;
-            case 588: return true;
-            case 589: return false;
-            case 590: return true;
-            case 591: return false;
-            case 592: return true;
-            case 593: return false;
-            case 594: return true;
-            case 595: return false;
-            case 596: return true;
-            case 597: return false;
-            case 598: return true;
-            case 599: return false;
-            case 600: return true;
-            case 601: return false;
-            case 602: return true;
-            case 603: return false;
-            case 604: return true;
-            case 605: return false;
-            case 606: return true;
-            case 607: return false;
-            case 608: return true;
-            case 609: return false;
-            case 610: return true;
-            case 611: return false;
-            case 612: return true;
-            case 613: return false;
-            case 614: return true;
-            case 615: return false;
-            case 616: return true;
-            case 617: return false;
-            case 618: return true;
-            case 619: return false;
-            case 620: return true;
-            case 621: return false;
-            case 622: return true;
-            case 623: return false;
-            case 624: return true;
-            case 625: return false;
-            case 626: return true;
-            case 627: return false;
-            case 628: return true;
-            case 629: return false;
-            case 630: return true;
-            case 631: return false;
-            case 632: return true;
-            case 633: return false;
-            case 634: return true;
-            case 635: return false;
-            case 636: return true;
-            case 637: return false;
-            case 638: return true;
-            case 639: return false;
-            case 640: return true;
-            case 641: return false;
-            case 642: return true;
-            case 643: return false;
-            case 644: return true;
-            case 645: return false;
-            case 646: return true;
-            case 647: return false;
-            case 648: return true;
-            case 649: return false;
-            case 650: return true;
-            case 651: return false;
-            case 652: return true;
-            case 653: return false;
-            case 654: return true;
-            case 655: return false;
-            case 656: return true;
-            case 657: return false;
-            case 658: return true;
-            case 659: return false;
-            case 660: return true;
-            case 661: return false;
-            case 662: return true;
-            case 663: return false;
-            case 664: return true;
-            case 665: return false;
-            case 666: return true;
-            case 667: return false;
-            case 668: return true;
-            case 669: return false;
-            case 670: return true;
-            case 671: return false;
-            case 672: return true;
-            case 673: return false;
-            case 674: return true;
-            case 675: return false;
-            case 676: return true;
-            case 677: return false;
-            case 678: return true;
-            case 679: return false;
-            case 680: return true;
-            case 681: return false;
-            case 682: return true;
-            case 683: return false;
-            case 684: return true;
-            case 685: return false;
-            case 686: return true;
-            case 687: return false;
-            case 688: return true;
-            case 689: return false;
-            case 690: return true;
-            case 691: return false;
-            case 692: return true;
-            case 693: return false;
-            case 694: return true;
-            case 695: return false;
-            case 696: return true;
-            case 697: return false;
-            case 698: return true;
-            case 699: return false;
-            case 700: return true;
-            case 701: return false;
-            case 702: return true;
-            case 703: return false;
-            case 704: return true;
-            case 705: return false;
-            case 706: return true;
-            case 707: return false;
-            case 708: return true;
-            case 709: return false;
-            case 710: return true;
-            case 711: return false;
-            case 712: return true;
-            case 713: return false;
-            case 714: return true;
-            case 715: return false;
-            case 716: return true;
-            case 717: return false;
-            case 718: return true;
-            case 719: return false;
-            case 720: return true;
-            case 721: return false;
-            case 722: return true;
-            case 723: return false;
-            case 724: return true;
-            case 725: return false;
-            case 726: return true;
-            case 727: return false;
-            case 728: return true;
-            case 729: return false;
-            case 730: return true;
-            case 731: return false;
-            case 732: return true;
-            case 733: return false;
-            case 734: return true;
-            case 735: return false;
-            case 736: return true;
-            case 737: return false;
-            case 738: return true;
-            case 739: return false;
-            case 740: return true;
-            case 741: return false;
-            case 742: return true;
-            case 743: return false;
-            case 744: return true;
-            case 745: return false;
-            case 746: return true;
-            case 747: return false;
-            case 748: return true;
-            case 749: return false;
-            case 750: return true;
-            case 751: return false;
-            case 752: return true;
-            case 753: return false;
-            case 754: return true;
-            case 755: return false;
-            case 756: return true;
-            case 757: return false;
-            case 758: return true;
-            case 759: return false;
-            case 760: return true;
-            case 761: return false;
-            case 762: return true;
-            case 763: return false;
-            case 764: return true;
-            case 765: return false;
-            case 766: return true;
-            case 767: return false;
-            case 768: return true;
-            case 769: return false;
-            case 770: return true;
-            case 771: return false;
-            case 772: return true;
-            case 773: return false;
-            case 774: return true;
-            case 775: return false;
-            case 776: return true;
-            case 777: return false;
-            case 778: return true;
-            case 779: return false;
-            case 780: return true;
-            case 781: return false;
-            case 782: return true;
-            case 783: return false;
-            case 784: return true;
-            case 785: return false;
-            case 786: return true;
-            case 787: return false;
-            case 788: return true;
-            case 789: return false;
-            case 790: return true;
-            case 791: return false;
-            case 792: return true;
-            case 793: return false;
-            case 794: return true;
-            case 795: return false;
-            case 796: return true;
-            case 797: return false;
-            case 798: return true;
-            case 799: return false;
-            case 800: return true;
-            case 801: return false;
-            case 802: return true;
-            case 803: return false;
-            case 804: return true;
-            case 805: return false;
-            case 806: return true;
-            case 807: return false;
-            case 808: return true;
-            case 809: return false;
-            case 810: return true;
-            case 811: return false;
-            case 812: return true;
-            case 813: return false;
-            case 814: return true;
-            case 815: return false;
-            case 816: return true;
-            case 817: return false;
-            case 818: return true;
-            case 819: return false;
-            case 820: return true;
-            case 821: return false;
-            case 822: return true;
-            case 823: return false;
-            case 824: return true;
-            case 825: return false;
-            case 826: return true;
-            case 827: return false;
-            case 828: return true;
-            case 829: return false;
-            case 830: return true;
-            case 831: return false;
-            case 832: return true;
-            case 833: return false;
-            case 834: return true;
-            case 835: return false;
-            case 836: return true;
-            case 837: return false;
-            case 838: return true;
-            case 839: return false;
-            case 840: return true;
-            case 841: return false;
-            case 842: return true;
-            case 843: return false;
-            case 844: return true;
-            case 845: return false;
-            case 846: return true;
-            case 847: return false;
-            case 848: return true;
-            case 849: return false;
-            case 850: return true;
-            case 851: return false;
-            case 852: return true;
-            case 853: return false;
-            case 854: return true;
-            case 855: return false;
-            case 856: return true;
-            case 857: return false;
-            case 858: return true;
-            case 859: return false;
-            case 860: return true;
-            case 861: return false;
-            case 862: return true;
-            case 863: return false;
-            case 864: return true;
-            case 865: return false;
-            case 866: return true;
-            case 867: return false;
-            case 868: return true;
-            case 869: return false;
-            case 870: return true;
-            case 871: return false;
-            case 872: return true;
-            case 873: return false;
-            case 874: return true;
-            case 875: return false;
-            case 876: return true;
-            case 877: return false;
-            case 878: return true;
-            case 879: return false;
-            case 880: return true;
-            case 881: return false;
-            case 882: return true;
-            case 883: return false;
-            case 884: return true;
-            case 885: return false;
-            case 886: return true;
-            case 887: return false;
-            case 888: return true;
-            case 889: return false;
-            case 890: return true;
-            case 891: return false;
-            case 892: return true;
-            case 893: return false;
-            case 894: return true;
-            case 895: return false;
-            case 896: return true;
-            case 897: return false;
-            case 898: return true;
-            case 899: return false;
-            case 900: return true;
-            case 901: return false;
-            case 902: return true;
-            case 903: return false;
-            case 904: return true;
-            case 905: return false;
-            case 906: return true;
-            case 907: return false;
-            case 908: return true;
-            case 909: return false;
-            case 910: return true;
-            case 911: return false;
-            case 912: return true;
-            case 913: return false;
-            case 914: return true;
-            case 915: return false;
-            case 916: return true;
-            case 917: return false;
-            case 918: return true;
-            case 919: return false;
-            case 920: return true;
-            case 921: return false;
-            case 922: return true;
-            case 923: return false;
-            case 924: return true;
-            case 925: return false;
-            case 926: return true;
-            case 927: return false;
-            case 928: return true;
-            case 929: return false;
-            case 930: return true;
-            case 931: return false;
-            case 932: return true;
-            case 933: return false;
-            case 934: return true;
-            case 935: return false;
-            case 936: return true;
-            case 937: return false;
-            case 938: return true;
-            case 939: return false;
-            case 940: return true;
-            case 941: return false;
-            case 942: return true;
-            case 943: return false;
-            case 944: return true;
-            case 945: return false;
-            case 946: return true;
-            case 947: return false;
-            case 948: return true;
-            case 949: return false;
-            case 950: return true;
-            case 951: return false;
-            case 952: return true;
-            case 953: return false;
-            case 954: return true;
-            case 955: return false;
-            case 956: return true;
-            case 957: return false;
-            case 958: return true;
-            case 959: return false;
-            case 960: return true;
-            case 961: return false;
-            case 962: return true;
-            case 963: return false;
-            case 964: return true;
-            case 965: return false;
-            case 966: return true;
-            case 967: return false;
-            case 968: return true;
-            case 969: return false;
-            case 970: return true;
-            case 971: return false;
-            case 972: return true;
-            case 973: return false;
-            case 974: return true;
-            case 975: return false;
-            case 976: return true;
-            case 977: return false;
-            case 978: return true;
-            case 979: return false;
-            case 980: return true;
-            case 981: return false;
-            case 982: return true;
-            case 983: return false;
-            case 984: return true;
-            case 985: return false;
-            case 986: return true;
-            case 987: return false;
-            case 988: return true;
-            case 989: return false;
-            case 990: return true;
-            case 991: return false;
-            case 992: return true;
-            case 993: return false;
-            case 994: return true;
-            case 995: return false;
-            case 996: return true;
-            case 997: return false;
-            case 998: return true;
-            case 999: return false;
-            case 1000: return true;
-            case 1001: return false;
-            case 1002: return true;
-            case 1003: return false;
-            case 1004: return true;
-            case 1005: return false;
-            case 1006: return true;
-            case 1007: return false;
-            case 1008: return true;
-            case 1009: return false;
-            case 1010: return true;
-            case 1011: return false;
-            case 1012: return true;
-            case 1013: return false;
-            case 1014: return true;
-            case 1015: return false;
-            case 1016: return true;
-            case 1017: return false;
-            case 1018: return true;
-            case 1019: return false;
-            case 1020: return true;
-            case 1021: return false;
-            case 1022: return true;
-            case 1023: return false;
-            default: return false;
-        }
+            0 => true,
+            1 => false,
+            2 => true,
+            3 => false,
+            4 => true,
+            5 => false,
+            6 => true,
+            7 => false,
+            8 => true,
+            9 => false,
+            10 => true,
+            11 => false,
+            12 => true,
+            13 => false,
+            14 => true,
+            15 => false,
+            16 => true,
+            17 => false,
+            18 => true,
+            19 => false,
+            20 => true,
+            21 => false,
+            22 => true,
+            23 => false,
+            24 => true,
+            25 => false,
+            26 => true,
+            27 => false,
+            28 => true,
+            29 => false,
+            30 => true,
+            31 => false,
+            32 => true,
+            33 => false,
+            34 => true,
+            35 => false,
+            36 => true,
+            37 => false,
+            38 => true,
+            39 => false,
+            40 => true,
+            41 => false,
+            42 => true,
+            43 => false,
+            44 => true,
+            45 => false,
+            46 => true,
+            47 => false,
+            48 => true,
+            49 => false,
+            50 => true,
+            51 => false,
+            52 => true,
+            53 => false,
+            54 => true,
+            55 => false,
+            56 => true,
+            57 => false,
+            58 => true,
+            59 => false,
+            60 => true,
+            61 => false,
+            62 => true,
+            63 => false,
+            64 => true,
+            65 => false,
+            66 => true,
+            67 => false,
+            68 => true,
+            69 => false,
+            70 => true,
+            71 => false,
+            72 => true,
+            73 => false,
+            74 => true,
+            75 => false,
+            76 => true,
+            77 => false,
+            78 => true,
+            79 => false,
+            80 => true,
+            81 => false,
+            82 => true,
+            83 => false,
+            84 => true,
+            85 => false,
+            86 => true,
+            87 => false,
+            88 => true,
+            89 => false,
+            90 => true,
+            91 => false,
+            92 => true,
+            93 => false,
+            94 => true,
+            95 => false,
+            96 => true,
+            97 => false,
+            98 => true,
+            99 => false,
+            100 => true,
+            101 => false,
+            102 => true,
+            103 => false,
+            104 => true,
+            105 => false,
+            106 => true,
+            107 => false,
+            108 => true,
+            109 => false,
+            110 => true,
+            111 => false,
+            112 => true,
+            113 => false,
+            114 => true,
+            115 => false,
+            116 => true,
+            117 => false,
+            118 => true,
+            119 => false,
+            120 => true,
+            121 => false,
+            122 => true,
+            123 => false,
+            124 => true,
+            125 => false,
+            126 => true,
+            127 => false,
+            128 => true,
+            129 => false,
+            130 => true,
+            131 => false,
+            132 => true,
+            133 => false,
+            134 => true,
+            135 => false,
+            136 => true,
+            137 => false,
+            138 => true,
+            139 => false,
+            140 => true,
+            141 => false,
+            142 => true,
+            143 => false,
+            144 => true,
+            145 => false,
+            146 => true,
+            147 => false,
+            148 => true,
+            149 => false,
+            150 => true,
+            151 => false,
+            152 => true,
+            153 => false,
+            154 => true,
+            155 => false,
+            156 => true,
+            157 => false,
+            158 => true,
+            159 => false,
+            160 => true,
+            161 => false,
+            162 => true,
+            163 => false,
+            164 => true,
+            165 => false,
+            166 => true,
+            167 => false,
+            168 => true,
+            169 => false,
+            170 => true,
+            171 => false,
+            172 => true,
+            173 => false,
+            174 => true,
+            175 => false,
+            176 => true,
+            177 => false,
+            178 => true,
+            179 => false,
+            180 => true,
+            181 => false,
+            182 => true,
+            183 => false,
+            184 => true,
+            185 => false,
+            186 => true,
+            187 => false,
+            188 => true,
+            189 => false,
+            190 => true,
+            191 => false,
+            192 => true,
+            193 => false,
+            194 => true,
+            195 => false,
+            196 => true,
+            197 => false,
+            198 => true,
+            199 => false,
+            200 => true,
+            201 => false,
+            202 => true,
+            203 => false,
+            204 => true,
+            205 => false,
+            206 => true,
+            207 => false,
+            208 => true,
+            209 => false,
+            210 => true,
+            211 => false,
+            212 => true,
+            213 => false,
+            214 => true,
+            215 => false,
+            216 => true,
+            217 => false,
+            218 => true,
+            219 => false,
+            220 => true,
+            221 => false,
+            222 => true,
+            223 => false,
+            224 => true,
+            225 => false,
+            226 => true,
+            227 => false,
+            228 => true,
+            229 => false,
+            230 => true,
+            231 => false,
+            232 => true,
+            233 => false,
+            234 => true,
+            235 => false,
+            236 => true,
+            237 => false,
+            238 => true,
+            239 => false,
+            240 => true,
+            241 => false,
+            242 => true,
+            243 => false,
+            244 => true,
+            245 => false,
+            246 => true,
+            247 => false,
+            248 => true,
+            249 => false,
+            250 => true,
+            251 => false,
+            252 => true,
+            253 => false,
+            254 => true,
+            255 => false,
+            256 => true,
+            257 => false,
+            258 => true,
+            259 => false,
+            260 => true,
+            261 => false,
+            262 => true,
+            263 => false,
+            264 => true,
+            265 => false,
+            266 => true,
+            267 => false,
+            268 => true,
+            269 => false,
+            270 => true,
+            271 => false,
+            272 => true,
+            273 => false,
+            274 => true,
+            275 => false,
+            276 => true,
+            277 => false,
+            278 => true,
+            279 => false,
+            280 => true,
+            281 => false,
+            282 => true,
+            283 => false,
+            284 => true,
+            285 => false,
+            286 => true,
+            287 => false,
+            288 => true,
+            289 => false,
+            290 => true,
+            291 => false,
+            292 => true,
+            293 => false,
+            294 => true,
+            295 => false,
+            296 => true,
+            297 => false,
+            298 => true,
+            299 => false,
+            300 => true,
+            301 => false,
+            302 => true,
+            303 => false,
+            304 => true,
+            305 => false,
+            306 => true,
+            307 => false,
+            308 => true,
+            309 => false,
+            310 => true,
+            311 => false,
+            312 => true,
+            313 => false,
+            314 => true,
+            315 => false,
+            316 => true,
+            317 => false,
+            318 => true,
+            319 => false,
+            320 => true,
+            321 => false,
+            322 => true,
+            323 => false,
+            324 => true,
+            325 => false,
+            326 => true,
+            327 => false,
+            328 => true,
+            329 => false,
+            330 => true,
+            331 => false,
+            332 => true,
+            333 => false,
+            334 => true,
+            335 => false,
+            336 => true,
+            337 => false,
+            338 => true,
+            339 => false,
+            340 => true,
+            341 => false,
+            342 => true,
+            343 => false,
+            344 => true,
+            345 => false,
+            346 => true,
+            347 => false,
+            348 => true,
+            349 => false,
+            350 => true,
+            351 => false,
+            352 => true,
+            353 => false,
+            354 => true,
+            355 => false,
+            356 => true,
+            357 => false,
+            358 => true,
+            359 => false,
+            360 => true,
+            361 => false,
+            362 => true,
+            363 => false,
+            364 => true,
+            365 => false,
+            366 => true,
+            367 => false,
+            368 => true,
+            369 => false,
+            370 => true,
+            371 => false,
+            372 => true,
+            373 => false,
+            374 => true,
+            375 => false,
+            376 => true,
+            377 => false,
+            378 => true,
+            379 => false,
+            380 => true,
+            381 => false,
+            382 => true,
+            383 => false,
+            384 => true,
+            385 => false,
+            386 => true,
+            387 => false,
+            388 => true,
+            389 => false,
+            390 => true,
+            391 => false,
+            392 => true,
+            393 => false,
+            394 => true,
+            395 => false,
+            396 => true,
+            397 => false,
+            398 => true,
+            399 => false,
+            400 => true,
+            401 => false,
+            402 => true,
+            403 => false,
+            404 => true,
+            405 => false,
+            406 => true,
+            407 => false,
+            408 => true,
+            409 => false,
+            410 => true,
+            411 => false,
+            412 => true,
+            413 => false,
+            414 => true,
+            415 => false,
+            416 => true,
+            417 => false,
+            418 => true,
+            419 => false,
+            420 => true,
+            421 => false,
+            422 => true,
+            423 => false,
+            424 => true,
+            425 => false,
+            426 => true,
+            427 => false,
+            428 => true,
+            429 => false,
+            430 => true,
+            431 => false,
+            432 => true,
+            433 => false,
+            434 => true,
+            435 => false,
+            436 => true,
+            437 => false,
+            438 => true,
+            439 => false,
+            440 => true,
+            441 => false,
+            442 => true,
+            443 => false,
+            444 => true,
+            445 => false,
+            446 => true,
+            447 => false,
+            448 => true,
+            449 => false,
+            450 => true,
+            451 => false,
+            452 => true,
+            453 => false,
+            454 => true,
+            455 => false,
+            456 => true,
+            457 => false,
+            458 => true,
+            459 => false,
+            460 => true,
+            461 => false,
+            462 => true,
+            463 => false,
+            464 => true,
+            465 => false,
+            466 => true,
+            467 => false,
+            468 => true,
+            469 => false,
+            470 => true,
+            471 => false,
+            472 => true,
+            473 => false,
+            474 => true,
+            475 => false,
+            476 => true,
+            477 => false,
+            478 => true,
+            479 => false,
+            480 => true,
+            481 => false,
+            482 => true,
+            483 => false,
+            484 => true,
+            485 => false,
+            486 => true,
+            487 => false,
+            488 => true,
+            489 => false,
+            490 => true,
+            491 => false,
+            492 => true,
+            493 => false,
+            494 => true,
+            495 => false,
+            496 => true,
+            497 => false,
+            498 => true,
+            499 => false,
+            500 => true,
+            501 => false,
+            502 => true,
+            503 => false,
+            504 => true,
+            505 => false,
+            506 => true,
+            507 => false,
+            508 => true,
+            509 => false,
+            510 => true,
+            511 => false,
+            512 => true,
+            513 => false,
+            514 => true,
+            515 => false,
+            516 => true,
+            517 => false,
+            518 => true,
+            519 => false,
+            520 => true,
+            521 => false,
+            522 => true,
+            523 => false,
+            524 => true,
+            525 => false,
+            526 => true,
+            527 => false,
+            528 => true,
+            529 => false,
+            530 => true,
+            531 => false,
+            532 => true,
+            533 => false,
+            534 => true,
+            535 => false,
+            536 => true,
+            537 => false,
+            538 => true,
+            539 => false,
+            540 => true,
+            541 => false,
+            542 => true,
+            543 => false,
+            544 => true,
+            545 => false,
+            546 => true,
+            547 => false,
+            548 => true,
+            549 => false,
+            550 => true,
+            551 => false,
+            552 => true,
+            553 => false,
+            554 => true,
+            555 => false,
+            556 => true,
+            557 => false,
+            558 => true,
+            559 => false,
+            560 => true,
+            561 => false,
+            562 => true,
+            563 => false,
+            564 => true,
+            565 => false,
+            566 => true,
+            567 => false,
+            568 => true,
+            569 => false,
+            570 => true,
+            571 => false,
+            572 => true,
+            573 => false,
+            574 => true,
+            575 => false,
+            576 => true,
+            577 => false,
+            578 => true,
+            579 => false,
+            580 => true,
+            581 => false,
+            582 => true,
+            583 => false,
+            584 => true,
+            585 => false,
+            586 => true,
+            587 => false,
+            588 => true,
+            589 => false,
+            590 => true,
+            591 => false,
+            592 => true,
+            593 => false,
+            594 => true,
+            595 => false,
+            596 => true,
+            597 => false,
+            598 => true,
+            599 => false,
+            600 => true,
+            601 => false,
+            602 => true,
+            603 => false,
+            604 => true,
+            605 => false,
+            606 => true,
+            607 => false,
+            608 => true,
+            609 => false,
+            610 => true,
+            611 => false,
+            612 => true,
+            613 => false,
+            614 => true,
+            615 => false,
+            616 => true,
+            617 => false,
+            618 => true,
+            619 => false,
+            620 => true,
+            621 => false,
+            622 => true,
+            623 => false,
+            624 => true,
+            625 => false,
+            626 => true,
+            627 => false,
+            628 => true,
+            629 => false,
+            630 => true,
+            631 => false,
+            632 => true,
+            633 => false,
+            634 => true,
+            635 => false,
+            636 => true,
+            637 => false,
+            638 => true,
+            639 => false,
+            640 => true,
+            641 => false,
+            642 => true,
+            643 => false,
+            644 => true,
+            645 => false,
+            646 => true,
+            647 => false,
+            648 => true,
+            649 => false,
+            650 => true,
+            651 => false,
+            652 => true,
+            653 => false,
+            654 => true,
+            655 => false,
+            656 => true,
+            657 => false,
+            658 => true,
+            659 => false,
+            660 => true,
+            661 => false,
+            662 => true,
+            663 => false,
+            664 => true,
+            665 => false,
+            666 => true,
+            667 => false,
+            668 => true,
+            669 => false,
+            670 => true,
+            671 => false,
+            672 => true,
+            673 => false,
+            674 => true,
+            675 => false,
+            676 => true,
+            677 => false,
+            678 => true,
+            679 => false,
+            680 => true,
+            681 => false,
+            682 => true,
+            683 => false,
+            684 => true,
+            685 => false,
+            686 => true,
+            687 => false,
+            688 => true,
+            689 => false,
+            690 => true,
+            691 => false,
+            692 => true,
+            693 => false,
+            694 => true,
+            695 => false,
+            696 => true,
+            697 => false,
+            698 => true,
+            699 => false,
+            700 => true,
+            701 => false,
+            702 => true,
+            703 => false,
+            704 => true,
+            705 => false,
+            706 => true,
+            707 => false,
+            708 => true,
+            709 => false,
+            710 => true,
+            711 => false,
+            712 => true,
+            713 => false,
+            714 => true,
+            715 => false,
+            716 => true,
+            717 => false,
+            718 => true,
+            719 => false,
+            720 => true,
+            721 => false,
+            722 => true,
+            723 => false,
+            724 => true,
+            725 => false,
+            726 => true,
+            727 => false,
+            728 => true,
+            729 => false,
+            730 => true,
+            731 => false,
+            732 => true,
+            733 => false,
+            734 => true,
+            735 => false,
+            736 => true,
+            737 => false,
+            738 => true,
+            739 => false,
+            740 => true,
+            741 => false,
+            742 => true,
+            743 => false,
+            744 => true,
+            745 => false,
+            746 => true,
+            747 => false,
+            748 => true,
+            749 => false,
+            750 => true,
+            751 => false,
+            752 => true,
+            753 => false,
+            754 => true,
+            755 => false,
+            756 => true,
+            757 => false,
+            758 => true,
+            759 => false,
+            760 => true,
+            761 => false,
+            762 => true,
+            763 => false,
+            764 => true,
+            765 => false,
+            766 => true,
+            767 => false,
+            768 => true,
+            769 => false,
+            770 => true,
+            771 => false,
+            772 => true,
+            773 => false,
+            774 => true,
+            775 => false,
+            776 => true,
+            777 => false,
+            778 => true,
+            779 => false,
+            780 => true,
+            781 => false,
+            782 => true,
+            783 => false,
+            784 => true,
+            785 => false,
+            786 => true,
+            787 => false,
+            788 => true,
+            789 => false,
+            790 => true,
+            791 => false,
+            792 => true,
+            793 => false,
+            794 => true,
+            795 => false,
+            796 => true,
+            797 => false,
+            798 => true,
+            799 => false,
+            800 => true,
+            801 => false,
+            802 => true,
+            803 => false,
+            804 => true,
+            805 => false,
+            806 => true,
+            807 => false,
+            808 => true,
+            809 => false,
+            810 => true,
+            811 => false,
+            812 => true,
+            813 => false,
+            814 => true,
+            815 => false,
+            816 => true,
+            817 => false,
+            818 => true,
+            819 => false,
+            820 => true,
+            821 => false,
+            822 => true,
+            823 => false,
+            824 => true,
+            825 => false,
+            826 => true,
+            827 => false,
+            828 => true,
+            829 => false,
+            830 => true,
+            831 => false,
+            832 => true,
+            833 => false,
+            834 => true,
+            835 => false,
+            836 => true,
+            837 => false,
+            838 => true,
+            839 => false,
+            840 => true,
+            841 => false,
+            842 => true,
+            843 => false,
+            844 => true,
+            845 => false,
+            846 => true,
+            847 => false,
+            848 => true,
+            849 => false,
+            850 => true,
+            851 => false,
+            852 => true,
+            853 => false,
+            854 => true,
+            855 => false,
+            856 => true,
+            857 => false,
+            858 => true,
+            859 => false,
+            860 => true,
+            861 => false,
+            862 => true,
+            863 => false,
+            864 => true,
+            865 => false,
+            866 => true,
+            867 => false,
+            868 => true,
+            869 => false,
+            870 => true,
+            871 => false,
+            872 => true,
+            873 => false,
+            874 => true,
+            875 => false,
+            876 => true,
+            877 => false,
+            878 => true,
+            879 => false,
+            880 => true,
+            881 => false,
+            882 => true,
+            883 => false,
+            884 => true,
+            885 => false,
+            886 => true,
+            887 => false,
+            888 => true,
+            889 => false,
+            890 => true,
+            891 => false,
+            892 => true,
+            893 => false,
+            894 => true,
+            895 => false,
+            896 => true,
+            897 => false,
+            898 => true,
+            899 => false,
+            900 => true,
+            901 => false,
+            902 => true,
+            903 => false,
+            904 => true,
+            905 => false,
+            906 => true,
+            907 => false,
+            908 => true,
+            909 => false,
+            910 => true,
+            911 => false,
+            912 => true,
+            913 => false,
+            914 => true,
+            915 => false,
+            916 => true,
+            917 => false,
+            918 => true,
+            919 => false,
+            920 => true,
+            921 => false,
+            922 => true,
+            923 => false,
+            924 => true,
+            925 => false,
+            926 => true,
+            927 => false,
+            928 => true,
+            929 => false,
+            930 => true,
+            931 => false,
+            932 => true,
+            933 => false,
+            934 => true,
+            935 => false,
+            936 => true,
+            937 => false,
+            938 => true,
+            939 => false,
+            940 => true,
+            941 => false,
+            942 => true,
+            943 => false,
+            944 => true,
+            945 => false,
+            946 => true,
+            947 => false,
+            948 => true,
+            949 => false,
+            950 => true,
+            951 => false,
+            952 => true,
+            953 => false,
+            954 => true,
+            955 => false,
+            956 => true,
+            957 => false,
+            958 => true,
+            959 => false,
+            960 => true,
+            961 => false,
+            962 => true,
+            963 => false,
+            964 => true,
+            965 => false,
+            966 => true,
+            967 => false,
+            968 => true,
+            969 => false,
+            970 => true,
+            971 => false,
+            972 => true,
+            973 => false,
+            974 => true,
+            975 => false,
+            976 => true,
+            977 => false,
+            978 => true,
+            979 => false,
+            980 => true,
+            981 => false,
+            982 => true,
+            983 => false,
+            984 => true,
+            985 => false,
+            986 => true,
+            987 => false,
+            988 => true,
+            989 => false,
+            990 => true,
+            991 => false,
+            992 => true,
+            993 => false,
+            994 => true,
+            995 => false,
+            996 => true,
+            997 => false,
+            998 => true,
+            999 => false,
+            1000 => true,
+            1001 => false,
+            1002 => true,
+            1003 => false,
+            1004 => true,
+            1005 => false,
+            1006 => true,
+            1007 => false,
+            1008 => true,
+            1009 => false,
+            1010 => true,
+            1011 => false,
+            1012 => true,
+            1013 => false,
+            1014 => true,
+            1015 => false,
+            1016 => true,
+            1017 => false,
+            1018 => true,
+            1019 => false,
+            1020 => true,
+            1021 => false,
+            1022 => true,
+            1023 => false,
+            _ => false,
+        };
     }
 }
