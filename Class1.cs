@@ -2,6 +2,8 @@
 {
     public static bool IsEven(int n)
     {
+        n = Math.Abs(n);
+
         if (n == 0)
             return true;
         else if (n == 1)
