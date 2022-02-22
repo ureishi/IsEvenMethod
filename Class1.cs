@@ -1,7 +1,7 @@
 ﻿public class Class1
 {
     public static bool IsEven(int n)
-        => Math.Abs(n) switch
+        => (Math.Abs(n) % 1024) switch
         {
             0 => true,
             1 => false,
@@ -1027,6 +1027,5 @@
             1021 => false,
             1022 => true,
             1023 => false,
-            _ => false,
         };
 }
