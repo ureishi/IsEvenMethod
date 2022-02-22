@@ -4,2055 +4,1033 @@
     {
         n = Math.Abs(n);
 
-        if (n == 0)
-            return true;
-        else if (n == 1)
-            return false;
-        else if (n == 2)
-            return true;
-        else if (n == 3)
-            return false;
-        else if (n == 4)
-            return true;
-        else if (n == 5)
-            return false;
-        else if (n == 6)
-            return true;
-        else if (n == 7)
-            return false;
-        else if (n == 8)
-            return true;
-        else if (n == 9)
-            return false;
-        else if (n == 10)
-            return true;
-        else if (n == 11)
-            return false;
-        else if (n == 12)
-            return true;
-        else if (n == 13)
-            return false;
-        else if (n == 14)
-            return true;
-        else if (n == 15)
-            return false;
-        else if (n == 16)
-            return true;
-        else if (n == 17)
-            return false;
-        else if (n == 18)
-            return true;
-        else if (n == 19)
-            return false;
-        else if (n == 20)
-            return true;
-        else if (n == 21)
-            return false;
-        else if (n == 22)
-            return true;
-        else if (n == 23)
-            return false;
-        else if (n == 24)
-            return true;
-        else if (n == 25)
-            return false;
-        else if (n == 26)
-            return true;
-        else if (n == 27)
-            return false;
-        else if (n == 28)
-            return true;
-        else if (n == 29)
-            return false;
-        else if (n == 30)
-            return true;
-        else if (n == 31)
-            return false;
-        else if (n == 32)
-            return true;
-        else if (n == 33)
-            return false;
-        else if (n == 34)
-            return true;
-        else if (n == 35)
-            return false;
-        else if (n == 36)
-            return true;
-        else if (n == 37)
-            return false;
-        else if (n == 38)
-            return true;
-        else if (n == 39)
-            return false;
-        else if (n == 40)
-            return true;
-        else if (n == 41)
-            return false;
-        else if (n == 42)
-            return true;
-        else if (n == 43)
-            return false;
-        else if (n == 44)
-            return true;
-        else if (n == 45)
-            return false;
-        else if (n == 46)
-            return true;
-        else if (n == 47)
-            return false;
-        else if (n == 48)
-            return true;
-        else if (n == 49)
-            return false;
-        else if (n == 50)
-            return true;
-        else if (n == 51)
-            return false;
-        else if (n == 52)
-            return true;
-        else if (n == 53)
-            return false;
-        else if (n == 54)
-            return true;
-        else if (n == 55)
-            return false;
-        else if (n == 56)
-            return true;
-        else if (n == 57)
-            return false;
-        else if (n == 58)
-            return true;
-        else if (n == 59)
-            return false;
-        else if (n == 60)
-            return true;
-        else if (n == 61)
-            return false;
-        else if (n == 62)
-            return true;
-        else if (n == 63)
-            return false;
-        else if (n == 64)
-            return true;
-        else if (n == 65)
-            return false;
-        else if (n == 66)
-            return true;
-        else if (n == 67)
-            return false;
-        else if (n == 68)
-            return true;
-        else if (n == 69)
-            return false;
-        else if (n == 70)
-            return true;
-        else if (n == 71)
-            return false;
-        else if (n == 72)
-            return true;
-        else if (n == 73)
-            return false;
-        else if (n == 74)
-            return true;
-        else if (n == 75)
-            return false;
-        else if (n == 76)
-            return true;
-        else if (n == 77)
-            return false;
-        else if (n == 78)
-            return true;
-        else if (n == 79)
-            return false;
-        else if (n == 80)
-            return true;
-        else if (n == 81)
-            return false;
-        else if (n == 82)
-            return true;
-        else if (n == 83)
-            return false;
-        else if (n == 84)
-            return true;
-        else if (n == 85)
-            return false;
-        else if (n == 86)
-            return true;
-        else if (n == 87)
-            return false;
-        else if (n == 88)
-            return true;
-        else if (n == 89)
-            return false;
-        else if (n == 90)
-            return true;
-        else if (n == 91)
-            return false;
-        else if (n == 92)
-            return true;
-        else if (n == 93)
-            return false;
-        else if (n == 94)
-            return true;
-        else if (n == 95)
-            return false;
-        else if (n == 96)
-            return true;
-        else if (n == 97)
-            return false;
-        else if (n == 98)
-            return true;
-        else if (n == 99)
-            return false;
-        else if (n == 100)
-            return true;
-        else if (n == 101)
-            return false;
-        else if (n == 102)
-            return true;
-        else if (n == 103)
-            return false;
-        else if (n == 104)
-            return true;
-        else if (n == 105)
-            return false;
-        else if (n == 106)
-            return true;
-        else if (n == 107)
-            return false;
-        else if (n == 108)
-            return true;
-        else if (n == 109)
-            return false;
-        else if (n == 110)
-            return true;
-        else if (n == 111)
-            return false;
-        else if (n == 112)
-            return true;
-        else if (n == 113)
-            return false;
-        else if (n == 114)
-            return true;
-        else if (n == 115)
-            return false;
-        else if (n == 116)
-            return true;
-        else if (n == 117)
-            return false;
-        else if (n == 118)
-            return true;
-        else if (n == 119)
-            return false;
-        else if (n == 120)
-            return true;
-        else if (n == 121)
-            return false;
-        else if (n == 122)
-            return true;
-        else if (n == 123)
-            return false;
-        else if (n == 124)
-            return true;
-        else if (n == 125)
-            return false;
-        else if (n == 126)
-            return true;
-        else if (n == 127)
-            return false;
-        else if (n == 128)
-            return true;
-        else if (n == 129)
-            return false;
-        else if (n == 130)
-            return true;
-        else if (n == 131)
-            return false;
-        else if (n == 132)
-            return true;
-        else if (n == 133)
-            return false;
-        else if (n == 134)
-            return true;
-        else if (n == 135)
-            return false;
-        else if (n == 136)
-            return true;
-        else if (n == 137)
-            return false;
-        else if (n == 138)
-            return true;
-        else if (n == 139)
-            return false;
-        else if (n == 140)
-            return true;
-        else if (n == 141)
-            return false;
-        else if (n == 142)
-            return true;
-        else if (n == 143)
-            return false;
-        else if (n == 144)
-            return true;
-        else if (n == 145)
-            return false;
-        else if (n == 146)
-            return true;
-        else if (n == 147)
-            return false;
-        else if (n == 148)
-            return true;
-        else if (n == 149)
-            return false;
-        else if (n == 150)
-            return true;
-        else if (n == 151)
-            return false;
-        else if (n == 152)
-            return true;
-        else if (n == 153)
-            return false;
-        else if (n == 154)
-            return true;
-        else if (n == 155)
-            return false;
-        else if (n == 156)
-            return true;
-        else if (n == 157)
-            return false;
-        else if (n == 158)
-            return true;
-        else if (n == 159)
-            return false;
-        else if (n == 160)
-            return true;
-        else if (n == 161)
-            return false;
-        else if (n == 162)
-            return true;
-        else if (n == 163)
-            return false;
-        else if (n == 164)
-            return true;
-        else if (n == 165)
-            return false;
-        else if (n == 166)
-            return true;
-        else if (n == 167)
-            return false;
-        else if (n == 168)
-            return true;
-        else if (n == 169)
-            return false;
-        else if (n == 170)
-            return true;
-        else if (n == 171)
-            return false;
-        else if (n == 172)
-            return true;
-        else if (n == 173)
-            return false;
-        else if (n == 174)
-            return true;
-        else if (n == 175)
-            return false;
-        else if (n == 176)
-            return true;
-        else if (n == 177)
-            return false;
-        else if (n == 178)
-            return true;
-        else if (n == 179)
-            return false;
-        else if (n == 180)
-            return true;
-        else if (n == 181)
-            return false;
-        else if (n == 182)
-            return true;
-        else if (n == 183)
-            return false;
-        else if (n == 184)
-            return true;
-        else if (n == 185)
-            return false;
-        else if (n == 186)
-            return true;
-        else if (n == 187)
-            return false;
-        else if (n == 188)
-            return true;
-        else if (n == 189)
-            return false;
-        else if (n == 190)
-            return true;
-        else if (n == 191)
-            return false;
-        else if (n == 192)
-            return true;
-        else if (n == 193)
-            return false;
-        else if (n == 194)
-            return true;
-        else if (n == 195)
-            return false;
-        else if (n == 196)
-            return true;
-        else if (n == 197)
-            return false;
-        else if (n == 198)
-            return true;
-        else if (n == 199)
-            return false;
-        else if (n == 200)
-            return true;
-        else if (n == 201)
-            return false;
-        else if (n == 202)
-            return true;
-        else if (n == 203)
-            return false;
-        else if (n == 204)
-            return true;
-        else if (n == 205)
-            return false;
-        else if (n == 206)
-            return true;
-        else if (n == 207)
-            return false;
-        else if (n == 208)
-            return true;
-        else if (n == 209)
-            return false;
-        else if (n == 210)
-            return true;
-        else if (n == 211)
-            return false;
-        else if (n == 212)
-            return true;
-        else if (n == 213)
-            return false;
-        else if (n == 214)
-            return true;
-        else if (n == 215)
-            return false;
-        else if (n == 216)
-            return true;
-        else if (n == 217)
-            return false;
-        else if (n == 218)
-            return true;
-        else if (n == 219)
-            return false;
-        else if (n == 220)
-            return true;
-        else if (n == 221)
-            return false;
-        else if (n == 222)
-            return true;
-        else if (n == 223)
-            return false;
-        else if (n == 224)
-            return true;
-        else if (n == 225)
-            return false;
-        else if (n == 226)
-            return true;
-        else if (n == 227)
-            return false;
-        else if (n == 228)
-            return true;
-        else if (n == 229)
-            return false;
-        else if (n == 230)
-            return true;
-        else if (n == 231)
-            return false;
-        else if (n == 232)
-            return true;
-        else if (n == 233)
-            return false;
-        else if (n == 234)
-            return true;
-        else if (n == 235)
-            return false;
-        else if (n == 236)
-            return true;
-        else if (n == 237)
-            return false;
-        else if (n == 238)
-            return true;
-        else if (n == 239)
-            return false;
-        else if (n == 240)
-            return true;
-        else if (n == 241)
-            return false;
-        else if (n == 242)
-            return true;
-        else if (n == 243)
-            return false;
-        else if (n == 244)
-            return true;
-        else if (n == 245)
-            return false;
-        else if (n == 246)
-            return true;
-        else if (n == 247)
-            return false;
-        else if (n == 248)
-            return true;
-        else if (n == 249)
-            return false;
-        else if (n == 250)
-            return true;
-        else if (n == 251)
-            return false;
-        else if (n == 252)
-            return true;
-        else if (n == 253)
-            return false;
-        else if (n == 254)
-            return true;
-        else if (n == 255)
-            return false;
-        else if (n == 256)
-            return true;
-        else if (n == 257)
-            return false;
-        else if (n == 258)
-            return true;
-        else if (n == 259)
-            return false;
-        else if (n == 260)
-            return true;
-        else if (n == 261)
-            return false;
-        else if (n == 262)
-            return true;
-        else if (n == 263)
-            return false;
-        else if (n == 264)
-            return true;
-        else if (n == 265)
-            return false;
-        else if (n == 266)
-            return true;
-        else if (n == 267)
-            return false;
-        else if (n == 268)
-            return true;
-        else if (n == 269)
-            return false;
-        else if (n == 270)
-            return true;
-        else if (n == 271)
-            return false;
-        else if (n == 272)
-            return true;
-        else if (n == 273)
-            return false;
-        else if (n == 274)
-            return true;
-        else if (n == 275)
-            return false;
-        else if (n == 276)
-            return true;
-        else if (n == 277)
-            return false;
-        else if (n == 278)
-            return true;
-        else if (n == 279)
-            return false;
-        else if (n == 280)
-            return true;
-        else if (n == 281)
-            return false;
-        else if (n == 282)
-            return true;
-        else if (n == 283)
-            return false;
-        else if (n == 284)
-            return true;
-        else if (n == 285)
-            return false;
-        else if (n == 286)
-            return true;
-        else if (n == 287)
-            return false;
-        else if (n == 288)
-            return true;
-        else if (n == 289)
-            return false;
-        else if (n == 290)
-            return true;
-        else if (n == 291)
-            return false;
-        else if (n == 292)
-            return true;
-        else if (n == 293)
-            return false;
-        else if (n == 294)
-            return true;
-        else if (n == 295)
-            return false;
-        else if (n == 296)
-            return true;
-        else if (n == 297)
-            return false;
-        else if (n == 298)
-            return true;
-        else if (n == 299)
-            return false;
-        else if (n == 300)
-            return true;
-        else if (n == 301)
-            return false;
-        else if (n == 302)
-            return true;
-        else if (n == 303)
-            return false;
-        else if (n == 304)
-            return true;
-        else if (n == 305)
-            return false;
-        else if (n == 306)
-            return true;
-        else if (n == 307)
-            return false;
-        else if (n == 308)
-            return true;
-        else if (n == 309)
-            return false;
-        else if (n == 310)
-            return true;
-        else if (n == 311)
-            return false;
-        else if (n == 312)
-            return true;
-        else if (n == 313)
-            return false;
-        else if (n == 314)
-            return true;
-        else if (n == 315)
-            return false;
-        else if (n == 316)
-            return true;
-        else if (n == 317)
-            return false;
-        else if (n == 318)
-            return true;
-        else if (n == 319)
-            return false;
-        else if (n == 320)
-            return true;
-        else if (n == 321)
-            return false;
-        else if (n == 322)
-            return true;
-        else if (n == 323)
-            return false;
-        else if (n == 324)
-            return true;
-        else if (n == 325)
-            return false;
-        else if (n == 326)
-            return true;
-        else if (n == 327)
-            return false;
-        else if (n == 328)
-            return true;
-        else if (n == 329)
-            return false;
-        else if (n == 330)
-            return true;
-        else if (n == 331)
-            return false;
-        else if (n == 332)
-            return true;
-        else if (n == 333)
-            return false;
-        else if (n == 334)
-            return true;
-        else if (n == 335)
-            return false;
-        else if (n == 336)
-            return true;
-        else if (n == 337)
-            return false;
-        else if (n == 338)
-            return true;
-        else if (n == 339)
-            return false;
-        else if (n == 340)
-            return true;
-        else if (n == 341)
-            return false;
-        else if (n == 342)
-            return true;
-        else if (n == 343)
-            return false;
-        else if (n == 344)
-            return true;
-        else if (n == 345)
-            return false;
-        else if (n == 346)
-            return true;
-        else if (n == 347)
-            return false;
-        else if (n == 348)
-            return true;
-        else if (n == 349)
-            return false;
-        else if (n == 350)
-            return true;
-        else if (n == 351)
-            return false;
-        else if (n == 352)
-            return true;
-        else if (n == 353)
-            return false;
-        else if (n == 354)
-            return true;
-        else if (n == 355)
-            return false;
-        else if (n == 356)
-            return true;
-        else if (n == 357)
-            return false;
-        else if (n == 358)
-            return true;
-        else if (n == 359)
-            return false;
-        else if (n == 360)
-            return true;
-        else if (n == 361)
-            return false;
-        else if (n == 362)
-            return true;
-        else if (n == 363)
-            return false;
-        else if (n == 364)
-            return true;
-        else if (n == 365)
-            return false;
-        else if (n == 366)
-            return true;
-        else if (n == 367)
-            return false;
-        else if (n == 368)
-            return true;
-        else if (n == 369)
-            return false;
-        else if (n == 370)
-            return true;
-        else if (n == 371)
-            return false;
-        else if (n == 372)
-            return true;
-        else if (n == 373)
-            return false;
-        else if (n == 374)
-            return true;
-        else if (n == 375)
-            return false;
-        else if (n == 376)
-            return true;
-        else if (n == 377)
-            return false;
-        else if (n == 378)
-            return true;
-        else if (n == 379)
-            return false;
-        else if (n == 380)
-            return true;
-        else if (n == 381)
-            return false;
-        else if (n == 382)
-            return true;
-        else if (n == 383)
-            return false;
-        else if (n == 384)
-            return true;
-        else if (n == 385)
-            return false;
-        else if (n == 386)
-            return true;
-        else if (n == 387)
-            return false;
-        else if (n == 388)
-            return true;
-        else if (n == 389)
-            return false;
-        else if (n == 390)
-            return true;
-        else if (n == 391)
-            return false;
-        else if (n == 392)
-            return true;
-        else if (n == 393)
-            return false;
-        else if (n == 394)
-            return true;
-        else if (n == 395)
-            return false;
-        else if (n == 396)
-            return true;
-        else if (n == 397)
-            return false;
-        else if (n == 398)
-            return true;
-        else if (n == 399)
-            return false;
-        else if (n == 400)
-            return true;
-        else if (n == 401)
-            return false;
-        else if (n == 402)
-            return true;
-        else if (n == 403)
-            return false;
-        else if (n == 404)
-            return true;
-        else if (n == 405)
-            return false;
-        else if (n == 406)
-            return true;
-        else if (n == 407)
-            return false;
-        else if (n == 408)
-            return true;
-        else if (n == 409)
-            return false;
-        else if (n == 410)
-            return true;
-        else if (n == 411)
-            return false;
-        else if (n == 412)
-            return true;
-        else if (n == 413)
-            return false;
-        else if (n == 414)
-            return true;
-        else if (n == 415)
-            return false;
-        else if (n == 416)
-            return true;
-        else if (n == 417)
-            return false;
-        else if (n == 418)
-            return true;
-        else if (n == 419)
-            return false;
-        else if (n == 420)
-            return true;
-        else if (n == 421)
-            return false;
-        else if (n == 422)
-            return true;
-        else if (n == 423)
-            return false;
-        else if (n == 424)
-            return true;
-        else if (n == 425)
-            return false;
-        else if (n == 426)
-            return true;
-        else if (n == 427)
-            return false;
-        else if (n == 428)
-            return true;
-        else if (n == 429)
-            return false;
-        else if (n == 430)
-            return true;
-        else if (n == 431)
-            return false;
-        else if (n == 432)
-            return true;
-        else if (n == 433)
-            return false;
-        else if (n == 434)
-            return true;
-        else if (n == 435)
-            return false;
-        else if (n == 436)
-            return true;
-        else if (n == 437)
-            return false;
-        else if (n == 438)
-            return true;
-        else if (n == 439)
-            return false;
-        else if (n == 440)
-            return true;
-        else if (n == 441)
-            return false;
-        else if (n == 442)
-            return true;
-        else if (n == 443)
-            return false;
-        else if (n == 444)
-            return true;
-        else if (n == 445)
-            return false;
-        else if (n == 446)
-            return true;
-        else if (n == 447)
-            return false;
-        else if (n == 448)
-            return true;
-        else if (n == 449)
-            return false;
-        else if (n == 450)
-            return true;
-        else if (n == 451)
-            return false;
-        else if (n == 452)
-            return true;
-        else if (n == 453)
-            return false;
-        else if (n == 454)
-            return true;
-        else if (n == 455)
-            return false;
-        else if (n == 456)
-            return true;
-        else if (n == 457)
-            return false;
-        else if (n == 458)
-            return true;
-        else if (n == 459)
-            return false;
-        else if (n == 460)
-            return true;
-        else if (n == 461)
-            return false;
-        else if (n == 462)
-            return true;
-        else if (n == 463)
-            return false;
-        else if (n == 464)
-            return true;
-        else if (n == 465)
-            return false;
-        else if (n == 466)
-            return true;
-        else if (n == 467)
-            return false;
-        else if (n == 468)
-            return true;
-        else if (n == 469)
-            return false;
-        else if (n == 470)
-            return true;
-        else if (n == 471)
-            return false;
-        else if (n == 472)
-            return true;
-        else if (n == 473)
-            return false;
-        else if (n == 474)
-            return true;
-        else if (n == 475)
-            return false;
-        else if (n == 476)
-            return true;
-        else if (n == 477)
-            return false;
-        else if (n == 478)
-            return true;
-        else if (n == 479)
-            return false;
-        else if (n == 480)
-            return true;
-        else if (n == 481)
-            return false;
-        else if (n == 482)
-            return true;
-        else if (n == 483)
-            return false;
-        else if (n == 484)
-            return true;
-        else if (n == 485)
-            return false;
-        else if (n == 486)
-            return true;
-        else if (n == 487)
-            return false;
-        else if (n == 488)
-            return true;
-        else if (n == 489)
-            return false;
-        else if (n == 490)
-            return true;
-        else if (n == 491)
-            return false;
-        else if (n == 492)
-            return true;
-        else if (n == 493)
-            return false;
-        else if (n == 494)
-            return true;
-        else if (n == 495)
-            return false;
-        else if (n == 496)
-            return true;
-        else if (n == 497)
-            return false;
-        else if (n == 498)
-            return true;
-        else if (n == 499)
-            return false;
-        else if (n == 500)
-            return true;
-        else if (n == 501)
-            return false;
-        else if (n == 502)
-            return true;
-        else if (n == 503)
-            return false;
-        else if (n == 504)
-            return true;
-        else if (n == 505)
-            return false;
-        else if (n == 506)
-            return true;
-        else if (n == 507)
-            return false;
-        else if (n == 508)
-            return true;
-        else if (n == 509)
-            return false;
-        else if (n == 510)
-            return true;
-        else if (n == 511)
-            return false;
-        else if (n == 512)
-            return true;
-        else if (n == 513)
-            return false;
-        else if (n == 514)
-            return true;
-        else if (n == 515)
-            return false;
-        else if (n == 516)
-            return true;
-        else if (n == 517)
-            return false;
-        else if (n == 518)
-            return true;
-        else if (n == 519)
-            return false;
-        else if (n == 520)
-            return true;
-        else if (n == 521)
-            return false;
-        else if (n == 522)
-            return true;
-        else if (n == 523)
-            return false;
-        else if (n == 524)
-            return true;
-        else if (n == 525)
-            return false;
-        else if (n == 526)
-            return true;
-        else if (n == 527)
-            return false;
-        else if (n == 528)
-            return true;
-        else if (n == 529)
-            return false;
-        else if (n == 530)
-            return true;
-        else if (n == 531)
-            return false;
-        else if (n == 532)
-            return true;
-        else if (n == 533)
-            return false;
-        else if (n == 534)
-            return true;
-        else if (n == 535)
-            return false;
-        else if (n == 536)
-            return true;
-        else if (n == 537)
-            return false;
-        else if (n == 538)
-            return true;
-        else if (n == 539)
-            return false;
-        else if (n == 540)
-            return true;
-        else if (n == 541)
-            return false;
-        else if (n == 542)
-            return true;
-        else if (n == 543)
-            return false;
-        else if (n == 544)
-            return true;
-        else if (n == 545)
-            return false;
-        else if (n == 546)
-            return true;
-        else if (n == 547)
-            return false;
-        else if (n == 548)
-            return true;
-        else if (n == 549)
-            return false;
-        else if (n == 550)
-            return true;
-        else if (n == 551)
-            return false;
-        else if (n == 552)
-            return true;
-        else if (n == 553)
-            return false;
-        else if (n == 554)
-            return true;
-        else if (n == 555)
-            return false;
-        else if (n == 556)
-            return true;
-        else if (n == 557)
-            return false;
-        else if (n == 558)
-            return true;
-        else if (n == 559)
-            return false;
-        else if (n == 560)
-            return true;
-        else if (n == 561)
-            return false;
-        else if (n == 562)
-            return true;
-        else if (n == 563)
-            return false;
-        else if (n == 564)
-            return true;
-        else if (n == 565)
-            return false;
-        else if (n == 566)
-            return true;
-        else if (n == 567)
-            return false;
-        else if (n == 568)
-            return true;
-        else if (n == 569)
-            return false;
-        else if (n == 570)
-            return true;
-        else if (n == 571)
-            return false;
-        else if (n == 572)
-            return true;
-        else if (n == 573)
-            return false;
-        else if (n == 574)
-            return true;
-        else if (n == 575)
-            return false;
-        else if (n == 576)
-            return true;
-        else if (n == 577)
-            return false;
-        else if (n == 578)
-            return true;
-        else if (n == 579)
-            return false;
-        else if (n == 580)
-            return true;
-        else if (n == 581)
-            return false;
-        else if (n == 582)
-            return true;
-        else if (n == 583)
-            return false;
-        else if (n == 584)
-            return true;
-        else if (n == 585)
-            return false;
-        else if (n == 586)
-            return true;
-        else if (n == 587)
-            return false;
-        else if (n == 588)
-            return true;
-        else if (n == 589)
-            return false;
-        else if (n == 590)
-            return true;
-        else if (n == 591)
-            return false;
-        else if (n == 592)
-            return true;
-        else if (n == 593)
-            return false;
-        else if (n == 594)
-            return true;
-        else if (n == 595)
-            return false;
-        else if (n == 596)
-            return true;
-        else if (n == 597)
-            return false;
-        else if (n == 598)
-            return true;
-        else if (n == 599)
-            return false;
-        else if (n == 600)
-            return true;
-        else if (n == 601)
-            return false;
-        else if (n == 602)
-            return true;
-        else if (n == 603)
-            return false;
-        else if (n == 604)
-            return true;
-        else if (n == 605)
-            return false;
-        else if (n == 606)
-            return true;
-        else if (n == 607)
-            return false;
-        else if (n == 608)
-            return true;
-        else if (n == 609)
-            return false;
-        else if (n == 610)
-            return true;
-        else if (n == 611)
-            return false;
-        else if (n == 612)
-            return true;
-        else if (n == 613)
-            return false;
-        else if (n == 614)
-            return true;
-        else if (n == 615)
-            return false;
-        else if (n == 616)
-            return true;
-        else if (n == 617)
-            return false;
-        else if (n == 618)
-            return true;
-        else if (n == 619)
-            return false;
-        else if (n == 620)
-            return true;
-        else if (n == 621)
-            return false;
-        else if (n == 622)
-            return true;
-        else if (n == 623)
-            return false;
-        else if (n == 624)
-            return true;
-        else if (n == 625)
-            return false;
-        else if (n == 626)
-            return true;
-        else if (n == 627)
-            return false;
-        else if (n == 628)
-            return true;
-        else if (n == 629)
-            return false;
-        else if (n == 630)
-            return true;
-        else if (n == 631)
-            return false;
-        else if (n == 632)
-            return true;
-        else if (n == 633)
-            return false;
-        else if (n == 634)
-            return true;
-        else if (n == 635)
-            return false;
-        else if (n == 636)
-            return true;
-        else if (n == 637)
-            return false;
-        else if (n == 638)
-            return true;
-        else if (n == 639)
-            return false;
-        else if (n == 640)
-            return true;
-        else if (n == 641)
-            return false;
-        else if (n == 642)
-            return true;
-        else if (n == 643)
-            return false;
-        else if (n == 644)
-            return true;
-        else if (n == 645)
-            return false;
-        else if (n == 646)
-            return true;
-        else if (n == 647)
-            return false;
-        else if (n == 648)
-            return true;
-        else if (n == 649)
-            return false;
-        else if (n == 650)
-            return true;
-        else if (n == 651)
-            return false;
-        else if (n == 652)
-            return true;
-        else if (n == 653)
-            return false;
-        else if (n == 654)
-            return true;
-        else if (n == 655)
-            return false;
-        else if (n == 656)
-            return true;
-        else if (n == 657)
-            return false;
-        else if (n == 658)
-            return true;
-        else if (n == 659)
-            return false;
-        else if (n == 660)
-            return true;
-        else if (n == 661)
-            return false;
-        else if (n == 662)
-            return true;
-        else if (n == 663)
-            return false;
-        else if (n == 664)
-            return true;
-        else if (n == 665)
-            return false;
-        else if (n == 666)
-            return true;
-        else if (n == 667)
-            return false;
-        else if (n == 668)
-            return true;
-        else if (n == 669)
-            return false;
-        else if (n == 670)
-            return true;
-        else if (n == 671)
-            return false;
-        else if (n == 672)
-            return true;
-        else if (n == 673)
-            return false;
-        else if (n == 674)
-            return true;
-        else if (n == 675)
-            return false;
-        else if (n == 676)
-            return true;
-        else if (n == 677)
-            return false;
-        else if (n == 678)
-            return true;
-        else if (n == 679)
-            return false;
-        else if (n == 680)
-            return true;
-        else if (n == 681)
-            return false;
-        else if (n == 682)
-            return true;
-        else if (n == 683)
-            return false;
-        else if (n == 684)
-            return true;
-        else if (n == 685)
-            return false;
-        else if (n == 686)
-            return true;
-        else if (n == 687)
-            return false;
-        else if (n == 688)
-            return true;
-        else if (n == 689)
-            return false;
-        else if (n == 690)
-            return true;
-        else if (n == 691)
-            return false;
-        else if (n == 692)
-            return true;
-        else if (n == 693)
-            return false;
-        else if (n == 694)
-            return true;
-        else if (n == 695)
-            return false;
-        else if (n == 696)
-            return true;
-        else if (n == 697)
-            return false;
-        else if (n == 698)
-            return true;
-        else if (n == 699)
-            return false;
-        else if (n == 700)
-            return true;
-        else if (n == 701)
-            return false;
-        else if (n == 702)
-            return true;
-        else if (n == 703)
-            return false;
-        else if (n == 704)
-            return true;
-        else if (n == 705)
-            return false;
-        else if (n == 706)
-            return true;
-        else if (n == 707)
-            return false;
-        else if (n == 708)
-            return true;
-        else if (n == 709)
-            return false;
-        else if (n == 710)
-            return true;
-        else if (n == 711)
-            return false;
-        else if (n == 712)
-            return true;
-        else if (n == 713)
-            return false;
-        else if (n == 714)
-            return true;
-        else if (n == 715)
-            return false;
-        else if (n == 716)
-            return true;
-        else if (n == 717)
-            return false;
-        else if (n == 718)
-            return true;
-        else if (n == 719)
-            return false;
-        else if (n == 720)
-            return true;
-        else if (n == 721)
-            return false;
-        else if (n == 722)
-            return true;
-        else if (n == 723)
-            return false;
-        else if (n == 724)
-            return true;
-        else if (n == 725)
-            return false;
-        else if (n == 726)
-            return true;
-        else if (n == 727)
-            return false;
-        else if (n == 728)
-            return true;
-        else if (n == 729)
-            return false;
-        else if (n == 730)
-            return true;
-        else if (n == 731)
-            return false;
-        else if (n == 732)
-            return true;
-        else if (n == 733)
-            return false;
-        else if (n == 734)
-            return true;
-        else if (n == 735)
-            return false;
-        else if (n == 736)
-            return true;
-        else if (n == 737)
-            return false;
-        else if (n == 738)
-            return true;
-        else if (n == 739)
-            return false;
-        else if (n == 740)
-            return true;
-        else if (n == 741)
-            return false;
-        else if (n == 742)
-            return true;
-        else if (n == 743)
-            return false;
-        else if (n == 744)
-            return true;
-        else if (n == 745)
-            return false;
-        else if (n == 746)
-            return true;
-        else if (n == 747)
-            return false;
-        else if (n == 748)
-            return true;
-        else if (n == 749)
-            return false;
-        else if (n == 750)
-            return true;
-        else if (n == 751)
-            return false;
-        else if (n == 752)
-            return true;
-        else if (n == 753)
-            return false;
-        else if (n == 754)
-            return true;
-        else if (n == 755)
-            return false;
-        else if (n == 756)
-            return true;
-        else if (n == 757)
-            return false;
-        else if (n == 758)
-            return true;
-        else if (n == 759)
-            return false;
-        else if (n == 760)
-            return true;
-        else if (n == 761)
-            return false;
-        else if (n == 762)
-            return true;
-        else if (n == 763)
-            return false;
-        else if (n == 764)
-            return true;
-        else if (n == 765)
-            return false;
-        else if (n == 766)
-            return true;
-        else if (n == 767)
-            return false;
-        else if (n == 768)
-            return true;
-        else if (n == 769)
-            return false;
-        else if (n == 770)
-            return true;
-        else if (n == 771)
-            return false;
-        else if (n == 772)
-            return true;
-        else if (n == 773)
-            return false;
-        else if (n == 774)
-            return true;
-        else if (n == 775)
-            return false;
-        else if (n == 776)
-            return true;
-        else if (n == 777)
-            return false;
-        else if (n == 778)
-            return true;
-        else if (n == 779)
-            return false;
-        else if (n == 780)
-            return true;
-        else if (n == 781)
-            return false;
-        else if (n == 782)
-            return true;
-        else if (n == 783)
-            return false;
-        else if (n == 784)
-            return true;
-        else if (n == 785)
-            return false;
-        else if (n == 786)
-            return true;
-        else if (n == 787)
-            return false;
-        else if (n == 788)
-            return true;
-        else if (n == 789)
-            return false;
-        else if (n == 790)
-            return true;
-        else if (n == 791)
-            return false;
-        else if (n == 792)
-            return true;
-        else if (n == 793)
-            return false;
-        else if (n == 794)
-            return true;
-        else if (n == 795)
-            return false;
-        else if (n == 796)
-            return true;
-        else if (n == 797)
-            return false;
-        else if (n == 798)
-            return true;
-        else if (n == 799)
-            return false;
-        else if (n == 800)
-            return true;
-        else if (n == 801)
-            return false;
-        else if (n == 802)
-            return true;
-        else if (n == 803)
-            return false;
-        else if (n == 804)
-            return true;
-        else if (n == 805)
-            return false;
-        else if (n == 806)
-            return true;
-        else if (n == 807)
-            return false;
-        else if (n == 808)
-            return true;
-        else if (n == 809)
-            return false;
-        else if (n == 810)
-            return true;
-        else if (n == 811)
-            return false;
-        else if (n == 812)
-            return true;
-        else if (n == 813)
-            return false;
-        else if (n == 814)
-            return true;
-        else if (n == 815)
-            return false;
-        else if (n == 816)
-            return true;
-        else if (n == 817)
-            return false;
-        else if (n == 818)
-            return true;
-        else if (n == 819)
-            return false;
-        else if (n == 820)
-            return true;
-        else if (n == 821)
-            return false;
-        else if (n == 822)
-            return true;
-        else if (n == 823)
-            return false;
-        else if (n == 824)
-            return true;
-        else if (n == 825)
-            return false;
-        else if (n == 826)
-            return true;
-        else if (n == 827)
-            return false;
-        else if (n == 828)
-            return true;
-        else if (n == 829)
-            return false;
-        else if (n == 830)
-            return true;
-        else if (n == 831)
-            return false;
-        else if (n == 832)
-            return true;
-        else if (n == 833)
-            return false;
-        else if (n == 834)
-            return true;
-        else if (n == 835)
-            return false;
-        else if (n == 836)
-            return true;
-        else if (n == 837)
-            return false;
-        else if (n == 838)
-            return true;
-        else if (n == 839)
-            return false;
-        else if (n == 840)
-            return true;
-        else if (n == 841)
-            return false;
-        else if (n == 842)
-            return true;
-        else if (n == 843)
-            return false;
-        else if (n == 844)
-            return true;
-        else if (n == 845)
-            return false;
-        else if (n == 846)
-            return true;
-        else if (n == 847)
-            return false;
-        else if (n == 848)
-            return true;
-        else if (n == 849)
-            return false;
-        else if (n == 850)
-            return true;
-        else if (n == 851)
-            return false;
-        else if (n == 852)
-            return true;
-        else if (n == 853)
-            return false;
-        else if (n == 854)
-            return true;
-        else if (n == 855)
-            return false;
-        else if (n == 856)
-            return true;
-        else if (n == 857)
-            return false;
-        else if (n == 858)
-            return true;
-        else if (n == 859)
-            return false;
-        else if (n == 860)
-            return true;
-        else if (n == 861)
-            return false;
-        else if (n == 862)
-            return true;
-        else if (n == 863)
-            return false;
-        else if (n == 864)
-            return true;
-        else if (n == 865)
-            return false;
-        else if (n == 866)
-            return true;
-        else if (n == 867)
-            return false;
-        else if (n == 868)
-            return true;
-        else if (n == 869)
-            return false;
-        else if (n == 870)
-            return true;
-        else if (n == 871)
-            return false;
-        else if (n == 872)
-            return true;
-        else if (n == 873)
-            return false;
-        else if (n == 874)
-            return true;
-        else if (n == 875)
-            return false;
-        else if (n == 876)
-            return true;
-        else if (n == 877)
-            return false;
-        else if (n == 878)
-            return true;
-        else if (n == 879)
-            return false;
-        else if (n == 880)
-            return true;
-        else if (n == 881)
-            return false;
-        else if (n == 882)
-            return true;
-        else if (n == 883)
-            return false;
-        else if (n == 884)
-            return true;
-        else if (n == 885)
-            return false;
-        else if (n == 886)
-            return true;
-        else if (n == 887)
-            return false;
-        else if (n == 888)
-            return true;
-        else if (n == 889)
-            return false;
-        else if (n == 890)
-            return true;
-        else if (n == 891)
-            return false;
-        else if (n == 892)
-            return true;
-        else if (n == 893)
-            return false;
-        else if (n == 894)
-            return true;
-        else if (n == 895)
-            return false;
-        else if (n == 896)
-            return true;
-        else if (n == 897)
-            return false;
-        else if (n == 898)
-            return true;
-        else if (n == 899)
-            return false;
-        else if (n == 900)
-            return true;
-        else if (n == 901)
-            return false;
-        else if (n == 902)
-            return true;
-        else if (n == 903)
-            return false;
-        else if (n == 904)
-            return true;
-        else if (n == 905)
-            return false;
-        else if (n == 906)
-            return true;
-        else if (n == 907)
-            return false;
-        else if (n == 908)
-            return true;
-        else if (n == 909)
-            return false;
-        else if (n == 910)
-            return true;
-        else if (n == 911)
-            return false;
-        else if (n == 912)
-            return true;
-        else if (n == 913)
-            return false;
-        else if (n == 914)
-            return true;
-        else if (n == 915)
-            return false;
-        else if (n == 916)
-            return true;
-        else if (n == 917)
-            return false;
-        else if (n == 918)
-            return true;
-        else if (n == 919)
-            return false;
-        else if (n == 920)
-            return true;
-        else if (n == 921)
-            return false;
-        else if (n == 922)
-            return true;
-        else if (n == 923)
-            return false;
-        else if (n == 924)
-            return true;
-        else if (n == 925)
-            return false;
-        else if (n == 926)
-            return true;
-        else if (n == 927)
-            return false;
-        else if (n == 928)
-            return true;
-        else if (n == 929)
-            return false;
-        else if (n == 930)
-            return true;
-        else if (n == 931)
-            return false;
-        else if (n == 932)
-            return true;
-        else if (n == 933)
-            return false;
-        else if (n == 934)
-            return true;
-        else if (n == 935)
-            return false;
-        else if (n == 936)
-            return true;
-        else if (n == 937)
-            return false;
-        else if (n == 938)
-            return true;
-        else if (n == 939)
-            return false;
-        else if (n == 940)
-            return true;
-        else if (n == 941)
-            return false;
-        else if (n == 942)
-            return true;
-        else if (n == 943)
-            return false;
-        else if (n == 944)
-            return true;
-        else if (n == 945)
-            return false;
-        else if (n == 946)
-            return true;
-        else if (n == 947)
-            return false;
-        else if (n == 948)
-            return true;
-        else if (n == 949)
-            return false;
-        else if (n == 950)
-            return true;
-        else if (n == 951)
-            return false;
-        else if (n == 952)
-            return true;
-        else if (n == 953)
-            return false;
-        else if (n == 954)
-            return true;
-        else if (n == 955)
-            return false;
-        else if (n == 956)
-            return true;
-        else if (n == 957)
-            return false;
-        else if (n == 958)
-            return true;
-        else if (n == 959)
-            return false;
-        else if (n == 960)
-            return true;
-        else if (n == 961)
-            return false;
-        else if (n == 962)
-            return true;
-        else if (n == 963)
-            return false;
-        else if (n == 964)
-            return true;
-        else if (n == 965)
-            return false;
-        else if (n == 966)
-            return true;
-        else if (n == 967)
-            return false;
-        else if (n == 968)
-            return true;
-        else if (n == 969)
-            return false;
-        else if (n == 970)
-            return true;
-        else if (n == 971)
-            return false;
-        else if (n == 972)
-            return true;
-        else if (n == 973)
-            return false;
-        else if (n == 974)
-            return true;
-        else if (n == 975)
-            return false;
-        else if (n == 976)
-            return true;
-        else if (n == 977)
-            return false;
-        else if (n == 978)
-            return true;
-        else if (n == 979)
-            return false;
-        else if (n == 980)
-            return true;
-        else if (n == 981)
-            return false;
-        else if (n == 982)
-            return true;
-        else if (n == 983)
-            return false;
-        else if (n == 984)
-            return true;
-        else if (n == 985)
-            return false;
-        else if (n == 986)
-            return true;
-        else if (n == 987)
-            return false;
-        else if (n == 988)
-            return true;
-        else if (n == 989)
-            return false;
-        else if (n == 990)
-            return true;
-        else if (n == 991)
-            return false;
-        else if (n == 992)
-            return true;
-        else if (n == 993)
-            return false;
-        else if (n == 994)
-            return true;
-        else if (n == 995)
-            return false;
-        else if (n == 996)
-            return true;
-        else if (n == 997)
-            return false;
-        else if (n == 998)
-            return true;
-        else if (n == 999)
-            return false;
-        else if (n == 1000)
-            return true;
-        else if (n == 1001)
-            return false;
-        else if (n == 1002)
-            return true;
-        else if (n == 1003)
-            return false;
-        else if (n == 1004)
-            return true;
-        else if (n == 1005)
-            return false;
-        else if (n == 1006)
-            return true;
-        else if (n == 1007)
-            return false;
-        else if (n == 1008)
-            return true;
-        else if (n == 1009)
-            return false;
-        else if (n == 1010)
-            return true;
-        else if (n == 1011)
-            return false;
-        else if (n == 1012)
-            return true;
-        else if (n == 1013)
-            return false;
-        else if (n == 1014)
-            return true;
-        else if (n == 1015)
-            return false;
-        else if (n == 1016)
-            return true;
-        else if (n == 1017)
-            return false;
-        else if (n == 1018)
-            return true;
-        else if (n == 1019)
-            return false;
-        else if (n == 1020)
-            return true;
-        else if (n == 1021)
-            return false;
-        else if (n == 1022)
-            return true;
-        else if (n == 1023)
-            return false;
-        else
-            return false;
+        switch (n)
+        {
+            case 0: return true;
+            case 1: return false;
+            case 2: return true;
+            case 3: return false;
+            case 4: return true;
+            case 5: return false;
+            case 6: return true;
+            case 7: return false;
+            case 8: return true;
+            case 9: return false;
+            case 10: return true;
+            case 11: return false;
+            case 12: return true;
+            case 13: return false;
+            case 14: return true;
+            case 15: return false;
+            case 16: return true;
+            case 17: return false;
+            case 18: return true;
+            case 19: return false;
+            case 20: return true;
+            case 21: return false;
+            case 22: return true;
+            case 23: return false;
+            case 24: return true;
+            case 25: return false;
+            case 26: return true;
+            case 27: return false;
+            case 28: return true;
+            case 29: return false;
+            case 30: return true;
+            case 31: return false;
+            case 32: return true;
+            case 33: return false;
+            case 34: return true;
+            case 35: return false;
+            case 36: return true;
+            case 37: return false;
+            case 38: return true;
+            case 39: return false;
+            case 40: return true;
+            case 41: return false;
+            case 42: return true;
+            case 43: return false;
+            case 44: return true;
+            case 45: return false;
+            case 46: return true;
+            case 47: return false;
+            case 48: return true;
+            case 49: return false;
+            case 50: return true;
+            case 51: return false;
+            case 52: return true;
+            case 53: return false;
+            case 54: return true;
+            case 55: return false;
+            case 56: return true;
+            case 57: return false;
+            case 58: return true;
+            case 59: return false;
+            case 60: return true;
+            case 61: return false;
+            case 62: return true;
+            case 63: return false;
+            case 64: return true;
+            case 65: return false;
+            case 66: return true;
+            case 67: return false;
+            case 68: return true;
+            case 69: return false;
+            case 70: return true;
+            case 71: return false;
+            case 72: return true;
+            case 73: return false;
+            case 74: return true;
+            case 75: return false;
+            case 76: return true;
+            case 77: return false;
+            case 78: return true;
+            case 79: return false;
+            case 80: return true;
+            case 81: return false;
+            case 82: return true;
+            case 83: return false;
+            case 84: return true;
+            case 85: return false;
+            case 86: return true;
+            case 87: return false;
+            case 88: return true;
+            case 89: return false;
+            case 90: return true;
+            case 91: return false;
+            case 92: return true;
+            case 93: return false;
+            case 94: return true;
+            case 95: return false;
+            case 96: return true;
+            case 97: return false;
+            case 98: return true;
+            case 99: return false;
+            case 100: return true;
+            case 101: return false;
+            case 102: return true;
+            case 103: return false;
+            case 104: return true;
+            case 105: return false;
+            case 106: return true;
+            case 107: return false;
+            case 108: return true;
+            case 109: return false;
+            case 110: return true;
+            case 111: return false;
+            case 112: return true;
+            case 113: return false;
+            case 114: return true;
+            case 115: return false;
+            case 116: return true;
+            case 117: return false;
+            case 118: return true;
+            case 119: return false;
+            case 120: return true;
+            case 121: return false;
+            case 122: return true;
+            case 123: return false;
+            case 124: return true;
+            case 125: return false;
+            case 126: return true;
+            case 127: return false;
+            case 128: return true;
+            case 129: return false;
+            case 130: return true;
+            case 131: return false;
+            case 132: return true;
+            case 133: return false;
+            case 134: return true;
+            case 135: return false;
+            case 136: return true;
+            case 137: return false;
+            case 138: return true;
+            case 139: return false;
+            case 140: return true;
+            case 141: return false;
+            case 142: return true;
+            case 143: return false;
+            case 144: return true;
+            case 145: return false;
+            case 146: return true;
+            case 147: return false;
+            case 148: return true;
+            case 149: return false;
+            case 150: return true;
+            case 151: return false;
+            case 152: return true;
+            case 153: return false;
+            case 154: return true;
+            case 155: return false;
+            case 156: return true;
+            case 157: return false;
+            case 158: return true;
+            case 159: return false;
+            case 160: return true;
+            case 161: return false;
+            case 162: return true;
+            case 163: return false;
+            case 164: return true;
+            case 165: return false;
+            case 166: return true;
+            case 167: return false;
+            case 168: return true;
+            case 169: return false;
+            case 170: return true;
+            case 171: return false;
+            case 172: return true;
+            case 173: return false;
+            case 174: return true;
+            case 175: return false;
+            case 176: return true;
+            case 177: return false;
+            case 178: return true;
+            case 179: return false;
+            case 180: return true;
+            case 181: return false;
+            case 182: return true;
+            case 183: return false;
+            case 184: return true;
+            case 185: return false;
+            case 186: return true;
+            case 187: return false;
+            case 188: return true;
+            case 189: return false;
+            case 190: return true;
+            case 191: return false;
+            case 192: return true;
+            case 193: return false;
+            case 194: return true;
+            case 195: return false;
+            case 196: return true;
+            case 197: return false;
+            case 198: return true;
+            case 199: return false;
+            case 200: return true;
+            case 201: return false;
+            case 202: return true;
+            case 203: return false;
+            case 204: return true;
+            case 205: return false;
+            case 206: return true;
+            case 207: return false;
+            case 208: return true;
+            case 209: return false;
+            case 210: return true;
+            case 211: return false;
+            case 212: return true;
+            case 213: return false;
+            case 214: return true;
+            case 215: return false;
+            case 216: return true;
+            case 217: return false;
+            case 218: return true;
+            case 219: return false;
+            case 220: return true;
+            case 221: return false;
+            case 222: return true;
+            case 223: return false;
+            case 224: return true;
+            case 225: return false;
+            case 226: return true;
+            case 227: return false;
+            case 228: return true;
+            case 229: return false;
+            case 230: return true;
+            case 231: return false;
+            case 232: return true;
+            case 233: return false;
+            case 234: return true;
+            case 235: return false;
+            case 236: return true;
+            case 237: return false;
+            case 238: return true;
+            case 239: return false;
+            case 240: return true;
+            case 241: return false;
+            case 242: return true;
+            case 243: return false;
+            case 244: return true;
+            case 245: return false;
+            case 246: return true;
+            case 247: return false;
+            case 248: return true;
+            case 249: return false;
+            case 250: return true;
+            case 251: return false;
+            case 252: return true;
+            case 253: return false;
+            case 254: return true;
+            case 255: return false;
+            case 256: return true;
+            case 257: return false;
+            case 258: return true;
+            case 259: return false;
+            case 260: return true;
+            case 261: return false;
+            case 262: return true;
+            case 263: return false;
+            case 264: return true;
+            case 265: return false;
+            case 266: return true;
+            case 267: return false;
+            case 268: return true;
+            case 269: return false;
+            case 270: return true;
+            case 271: return false;
+            case 272: return true;
+            case 273: return false;
+            case 274: return true;
+            case 275: return false;
+            case 276: return true;
+            case 277: return false;
+            case 278: return true;
+            case 279: return false;
+            case 280: return true;
+            case 281: return false;
+            case 282: return true;
+            case 283: return false;
+            case 284: return true;
+            case 285: return false;
+            case 286: return true;
+            case 287: return false;
+            case 288: return true;
+            case 289: return false;
+            case 290: return true;
+            case 291: return false;
+            case 292: return true;
+            case 293: return false;
+            case 294: return true;
+            case 295: return false;
+            case 296: return true;
+            case 297: return false;
+            case 298: return true;
+            case 299: return false;
+            case 300: return true;
+            case 301: return false;
+            case 302: return true;
+            case 303: return false;
+            case 304: return true;
+            case 305: return false;
+            case 306: return true;
+            case 307: return false;
+            case 308: return true;
+            case 309: return false;
+            case 310: return true;
+            case 311: return false;
+            case 312: return true;
+            case 313: return false;
+            case 314: return true;
+            case 315: return false;
+            case 316: return true;
+            case 317: return false;
+            case 318: return true;
+            case 319: return false;
+            case 320: return true;
+            case 321: return false;
+            case 322: return true;
+            case 323: return false;
+            case 324: return true;
+            case 325: return false;
+            case 326: return true;
+            case 327: return false;
+            case 328: return true;
+            case 329: return false;
+            case 330: return true;
+            case 331: return false;
+            case 332: return true;
+            case 333: return false;
+            case 334: return true;
+            case 335: return false;
+            case 336: return true;
+            case 337: return false;
+            case 338: return true;
+            case 339: return false;
+            case 340: return true;
+            case 341: return false;
+            case 342: return true;
+            case 343: return false;
+            case 344: return true;
+            case 345: return false;
+            case 346: return true;
+            case 347: return false;
+            case 348: return true;
+            case 349: return false;
+            case 350: return true;
+            case 351: return false;
+            case 352: return true;
+            case 353: return false;
+            case 354: return true;
+            case 355: return false;
+            case 356: return true;
+            case 357: return false;
+            case 358: return true;
+            case 359: return false;
+            case 360: return true;
+            case 361: return false;
+            case 362: return true;
+            case 363: return false;
+            case 364: return true;
+            case 365: return false;
+            case 366: return true;
+            case 367: return false;
+            case 368: return true;
+            case 369: return false;
+            case 370: return true;
+            case 371: return false;
+            case 372: return true;
+            case 373: return false;
+            case 374: return true;
+            case 375: return false;
+            case 376: return true;
+            case 377: return false;
+            case 378: return true;
+            case 379: return false;
+            case 380: return true;
+            case 381: return false;
+            case 382: return true;
+            case 383: return false;
+            case 384: return true;
+            case 385: return false;
+            case 386: return true;
+            case 387: return false;
+            case 388: return true;
+            case 389: return false;
+            case 390: return true;
+            case 391: return false;
+            case 392: return true;
+            case 393: return false;
+            case 394: return true;
+            case 395: return false;
+            case 396: return true;
+            case 397: return false;
+            case 398: return true;
+            case 399: return false;
+            case 400: return true;
+            case 401: return false;
+            case 402: return true;
+            case 403: return false;
+            case 404: return true;
+            case 405: return false;
+            case 406: return true;
+            case 407: return false;
+            case 408: return true;
+            case 409: return false;
+            case 410: return true;
+            case 411: return false;
+            case 412: return true;
+            case 413: return false;
+            case 414: return true;
+            case 415: return false;
+            case 416: return true;
+            case 417: return false;
+            case 418: return true;
+            case 419: return false;
+            case 420: return true;
+            case 421: return false;
+            case 422: return true;
+            case 423: return false;
+            case 424: return true;
+            case 425: return false;
+            case 426: return true;
+            case 427: return false;
+            case 428: return true;
+            case 429: return false;
+            case 430: return true;
+            case 431: return false;
+            case 432: return true;
+            case 433: return false;
+            case 434: return true;
+            case 435: return false;
+            case 436: return true;
+            case 437: return false;
+            case 438: return true;
+            case 439: return false;
+            case 440: return true;
+            case 441: return false;
+            case 442: return true;
+            case 443: return false;
+            case 444: return true;
+            case 445: return false;
+            case 446: return true;
+            case 447: return false;
+            case 448: return true;
+            case 449: return false;
+            case 450: return true;
+            case 451: return false;
+            case 452: return true;
+            case 453: return false;
+            case 454: return true;
+            case 455: return false;
+            case 456: return true;
+            case 457: return false;
+            case 458: return true;
+            case 459: return false;
+            case 460: return true;
+            case 461: return false;
+            case 462: return true;
+            case 463: return false;
+            case 464: return true;
+            case 465: return false;
+            case 466: return true;
+            case 467: return false;
+            case 468: return true;
+            case 469: return false;
+            case 470: return true;
+            case 471: return false;
+            case 472: return true;
+            case 473: return false;
+            case 474: return true;
+            case 475: return false;
+            case 476: return true;
+            case 477: return false;
+            case 478: return true;
+            case 479: return false;
+            case 480: return true;
+            case 481: return false;
+            case 482: return true;
+            case 483: return false;
+            case 484: return true;
+            case 485: return false;
+            case 486: return true;
+            case 487: return false;
+            case 488: return true;
+            case 489: return false;
+            case 490: return true;
+            case 491: return false;
+            case 492: return true;
+            case 493: return false;
+            case 494: return true;
+            case 495: return false;
+            case 496: return true;
+            case 497: return false;
+            case 498: return true;
+            case 499: return false;
+            case 500: return true;
+            case 501: return false;
+            case 502: return true;
+            case 503: return false;
+            case 504: return true;
+            case 505: return false;
+            case 506: return true;
+            case 507: return false;
+            case 508: return true;
+            case 509: return false;
+            case 510: return true;
+            case 511: return false;
+            case 512: return true;
+            case 513: return false;
+            case 514: return true;
+            case 515: return false;
+            case 516: return true;
+            case 517: return false;
+            case 518: return true;
+            case 519: return false;
+            case 520: return true;
+            case 521: return false;
+            case 522: return true;
+            case 523: return false;
+            case 524: return true;
+            case 525: return false;
+            case 526: return true;
+            case 527: return false;
+            case 528: return true;
+            case 529: return false;
+            case 530: return true;
+            case 531: return false;
+            case 532: return true;
+            case 533: return false;
+            case 534: return true;
+            case 535: return false;
+            case 536: return true;
+            case 537: return false;
+            case 538: return true;
+            case 539: return false;
+            case 540: return true;
+            case 541: return false;
+            case 542: return true;
+            case 543: return false;
+            case 544: return true;
+            case 545: return false;
+            case 546: return true;
+            case 547: return false;
+            case 548: return true;
+            case 549: return false;
+            case 550: return true;
+            case 551: return false;
+            case 552: return true;
+            case 553: return false;
+            case 554: return true;
+            case 555: return false;
+            case 556: return true;
+            case 557: return false;
+            case 558: return true;
+            case 559: return false;
+            case 560: return true;
+            case 561: return false;
+            case 562: return true;
+            case 563: return false;
+            case 564: return true;
+            case 565: return false;
+            case 566: return true;
+            case 567: return false;
+            case 568: return true;
+            case 569: return false;
+            case 570: return true;
+            case 571: return false;
+            case 572: return true;
+            case 573: return false;
+            case 574: return true;
+            case 575: return false;
+            case 576: return true;
+            case 577: return false;
+            case 578: return true;
+            case 579: return false;
+            case 580: return true;
+            case 581: return false;
+            case 582: return true;
+            case 583: return false;
+            case 584: return true;
+            case 585: return false;
+            case 586: return true;
+            case 587: return false;
+            case 588: return true;
+            case 589: return false;
+            case 590: return true;
+            case 591: return false;
+            case 592: return true;
+            case 593: return false;
+            case 594: return true;
+            case 595: return false;
+            case 596: return true;
+            case 597: return false;
+            case 598: return true;
+            case 599: return false;
+            case 600: return true;
+            case 601: return false;
+            case 602: return true;
+            case 603: return false;
+            case 604: return true;
+            case 605: return false;
+            case 606: return true;
+            case 607: return false;
+            case 608: return true;
+            case 609: return false;
+            case 610: return true;
+            case 611: return false;
+            case 612: return true;
+            case 613: return false;
+            case 614: return true;
+            case 615: return false;
+            case 616: return true;
+            case 617: return false;
+            case 618: return true;
+            case 619: return false;
+            case 620: return true;
+            case 621: return false;
+            case 622: return true;
+            case 623: return false;
+            case 624: return true;
+            case 625: return false;
+            case 626: return true;
+            case 627: return false;
+            case 628: return true;
+            case 629: return false;
+            case 630: return true;
+            case 631: return false;
+            case 632: return true;
+            case 633: return false;
+            case 634: return true;
+            case 635: return false;
+            case 636: return true;
+            case 637: return false;
+            case 638: return true;
+            case 639: return false;
+            case 640: return true;
+            case 641: return false;
+            case 642: return true;
+            case 643: return false;
+            case 644: return true;
+            case 645: return false;
+            case 646: return true;
+            case 647: return false;
+            case 648: return true;
+            case 649: return false;
+            case 650: return true;
+            case 651: return false;
+            case 652: return true;
+            case 653: return false;
+            case 654: return true;
+            case 655: return false;
+            case 656: return true;
+            case 657: return false;
+            case 658: return true;
+            case 659: return false;
+            case 660: return true;
+            case 661: return false;
+            case 662: return true;
+            case 663: return false;
+            case 664: return true;
+            case 665: return false;
+            case 666: return true;
+            case 667: return false;
+            case 668: return true;
+            case 669: return false;
+            case 670: return true;
+            case 671: return false;
+            case 672: return true;
+            case 673: return false;
+            case 674: return true;
+            case 675: return false;
+            case 676: return true;
+            case 677: return false;
+            case 678: return true;
+            case 679: return false;
+            case 680: return true;
+            case 681: return false;
+            case 682: return true;
+            case 683: return false;
+            case 684: return true;
+            case 685: return false;
+            case 686: return true;
+            case 687: return false;
+            case 688: return true;
+            case 689: return false;
+            case 690: return true;
+            case 691: return false;
+            case 692: return true;
+            case 693: return false;
+            case 694: return true;
+            case 695: return false;
+            case 696: return true;
+            case 697: return false;
+            case 698: return true;
+            case 699: return false;
+            case 700: return true;
+            case 701: return false;
+            case 702: return true;
+            case 703: return false;
+            case 704: return true;
+            case 705: return false;
+            case 706: return true;
+            case 707: return false;
+            case 708: return true;
+            case 709: return false;
+            case 710: return true;
+            case 711: return false;
+            case 712: return true;
+            case 713: return false;
+            case 714: return true;
+            case 715: return false;
+            case 716: return true;
+            case 717: return false;
+            case 718: return true;
+            case 719: return false;
+            case 720: return true;
+            case 721: return false;
+            case 722: return true;
+            case 723: return false;
+            case 724: return true;
+            case 725: return false;
+            case 726: return true;
+            case 727: return false;
+            case 728: return true;
+            case 729: return false;
+            case 730: return true;
+            case 731: return false;
+            case 732: return true;
+            case 733: return false;
+            case 734: return true;
+            case 735: return false;
+            case 736: return true;
+            case 737: return false;
+            case 738: return true;
+            case 739: return false;
+            case 740: return true;
+            case 741: return false;
+            case 742: return true;
+            case 743: return false;
+            case 744: return true;
+            case 745: return false;
+            case 746: return true;
+            case 747: return false;
+            case 748: return true;
+            case 749: return false;
+            case 750: return true;
+            case 751: return false;
+            case 752: return true;
+            case 753: return false;
+            case 754: return true;
+            case 755: return false;
+            case 756: return true;
+            case 757: return false;
+            case 758: return true;
+            case 759: return false;
+            case 760: return true;
+            case 761: return false;
+            case 762: return true;
+            case 763: return false;
+            case 764: return true;
+            case 765: return false;
+            case 766: return true;
+            case 767: return false;
+            case 768: return true;
+            case 769: return false;
+            case 770: return true;
+            case 771: return false;
+            case 772: return true;
+            case 773: return false;
+            case 774: return true;
+            case 775: return false;
+            case 776: return true;
+            case 777: return false;
+            case 778: return true;
+            case 779: return false;
+            case 780: return true;
+            case 781: return false;
+            case 782: return true;
+            case 783: return false;
+            case 784: return true;
+            case 785: return false;
+            case 786: return true;
+            case 787: return false;
+            case 788: return true;
+            case 789: return false;
+            case 790: return true;
+            case 791: return false;
+            case 792: return true;
+            case 793: return false;
+            case 794: return true;
+            case 795: return false;
+            case 796: return true;
+            case 797: return false;
+            case 798: return true;
+            case 799: return false;
+            case 800: return true;
+            case 801: return false;
+            case 802: return true;
+            case 803: return false;
+            case 804: return true;
+            case 805: return false;
+            case 806: return true;
+            case 807: return false;
+            case 808: return true;
+            case 809: return false;
+            case 810: return true;
+            case 811: return false;
+            case 812: return true;
+            case 813: return false;
+            case 814: return true;
+            case 815: return false;
+            case 816: return true;
+            case 817: return false;
+            case 818: return true;
+            case 819: return false;
+            case 820: return true;
+            case 821: return false;
+            case 822: return true;
+            case 823: return false;
+            case 824: return true;
+            case 825: return false;
+            case 826: return true;
+            case 827: return false;
+            case 828: return true;
+            case 829: return false;
+            case 830: return true;
+            case 831: return false;
+            case 832: return true;
+            case 833: return false;
+            case 834: return true;
+            case 835: return false;
+            case 836: return true;
+            case 837: return false;
+            case 838: return true;
+            case 839: return false;
+            case 840: return true;
+            case 841: return false;
+            case 842: return true;
+            case 843: return false;
+            case 844: return true;
+            case 845: return false;
+            case 846: return true;
+            case 847: return false;
+            case 848: return true;
+            case 849: return false;
+            case 850: return true;
+            case 851: return false;
+            case 852: return true;
+            case 853: return false;
+            case 854: return true;
+            case 855: return false;
+            case 856: return true;
+            case 857: return false;
+            case 858: return true;
+            case 859: return false;
+            case 860: return true;
+            case 861: return false;
+            case 862: return true;
+            case 863: return false;
+            case 864: return true;
+            case 865: return false;
+            case 866: return true;
+            case 867: return false;
+            case 868: return true;
+            case 869: return false;
+            case 870: return true;
+            case 871: return false;
+            case 872: return true;
+            case 873: return false;
+            case 874: return true;
+            case 875: return false;
+            case 876: return true;
+            case 877: return false;
+            case 878: return true;
+            case 879: return false;
+            case 880: return true;
+            case 881: return false;
+            case 882: return true;
+            case 883: return false;
+            case 884: return true;
+            case 885: return false;
+            case 886: return true;
+            case 887: return false;
+            case 888: return true;
+            case 889: return false;
+            case 890: return true;
+            case 891: return false;
+            case 892: return true;
+            case 893: return false;
+            case 894: return true;
+            case 895: return false;
+            case 896: return true;
+            case 897: return false;
+            case 898: return true;
+            case 899: return false;
+            case 900: return true;
+            case 901: return false;
+            case 902: return true;
+            case 903: return false;
+            case 904: return true;
+            case 905: return false;
+            case 906: return true;
+            case 907: return false;
+            case 908: return true;
+            case 909: return false;
+            case 910: return true;
+            case 911: return false;
+            case 912: return true;
+            case 913: return false;
+            case 914: return true;
+            case 915: return false;
+            case 916: return true;
+            case 917: return false;
+            case 918: return true;
+            case 919: return false;
+            case 920: return true;
+            case 921: return false;
+            case 922: return true;
+            case 923: return false;
+            case 924: return true;
+            case 925: return false;
+            case 926: return true;
+            case 927: return false;
+            case 928: return true;
+            case 929: return false;
+            case 930: return true;
+            case 931: return false;
+            case 932: return true;
+            case 933: return false;
+            case 934: return true;
+            case 935: return false;
+            case 936: return true;
+            case 937: return false;
+            case 938: return true;
+            case 939: return false;
+            case 940: return true;
+            case 941: return false;
+            case 942: return true;
+            case 943: return false;
+            case 944: return true;
+            case 945: return false;
+            case 946: return true;
+            case 947: return false;
+            case 948: return true;
+            case 949: return false;
+            case 950: return true;
+            case 951: return false;
+            case 952: return true;
+            case 953: return false;
+            case 954: return true;
+            case 955: return false;
+            case 956: return true;
+            case 957: return false;
+            case 958: return true;
+            case 959: return false;
+            case 960: return true;
+            case 961: return false;
+            case 962: return true;
+            case 963: return false;
+            case 964: return true;
+            case 965: return false;
+            case 966: return true;
+            case 967: return false;
+            case 968: return true;
+            case 969: return false;
+            case 970: return true;
+            case 971: return false;
+            case 972: return true;
+            case 973: return false;
+            case 974: return true;
+            case 975: return false;
+            case 976: return true;
+            case 977: return false;
+            case 978: return true;
+            case 979: return false;
+            case 980: return true;
+            case 981: return false;
+            case 982: return true;
+            case 983: return false;
+            case 984: return true;
+            case 985: return false;
+            case 986: return true;
+            case 987: return false;
+            case 988: return true;
+            case 989: return false;
+            case 990: return true;
+            case 991: return false;
+            case 992: return true;
+            case 993: return false;
+            case 994: return true;
+            case 995: return false;
+            case 996: return true;
+            case 997: return false;
+            case 998: return true;
+            case 999: return false;
+            case 1000: return true;
+            case 1001: return false;
+            case 1002: return true;
+            case 1003: return false;
+            case 1004: return true;
+            case 1005: return false;
+            case 1006: return true;
+            case 1007: return false;
+            case 1008: return true;
+            case 1009: return false;
+            case 1010: return true;
+            case 1011: return false;
+            case 1012: return true;
+            case 1013: return false;
+            case 1014: return true;
+            case 1015: return false;
+            case 1016: return true;
+            case 1017: return false;
+            case 1018: return true;
+            case 1019: return false;
+            case 1020: return true;
+            case 1021: return false;
+            case 1022: return true;
+            case 1023: return false;
+            default: return false;
+        }
     }
 }
